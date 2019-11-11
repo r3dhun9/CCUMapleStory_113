@@ -1,0 +1,42 @@
+﻿#File Setting
+server.wzpath = \wz
+
+#Database Setting
+server.settings.db.name = twms
+server.settings.db.ip = 127.0.0.1
+server.settings.db.user          = root
+server.settings.db.password          = root
+
+#Channel Setting
+server.settings.channel.count         = 5
+#server.settings.channel1.port          = 8585
+
+
+#Login Setting
+server.settings.login.port         = 8484
+
+#CashShop Setting
+server.settings.cashshop.port      = 5555
+server.settings.cashshop.enable    = true
+
+#World Setting
+server.settings.expRate           = 1
+server.settings.mesoRate          = 1
+server.settings.dropRate          = 1
+server.settings.cashRate          = 1
+server.settings.serverName    = 雪吉拉
+server.settings.eventMessage  = #b尊重包容友善#\r\n#b歡迎來到中正谷#\r\n#r請勿開外掛#\r#r抓到永久鎖#\r#r@幫助/@help-查看指令#
+server.settings.serverMessage = 貼心提醒 : 如果發現外掛或外掛蹤跡請截圖至社團. 祝遊玩愉快~
+server.settings.events        = HontalePQ,HorntailBattle,cpq2,elevator,Christmas,FireDemon,Amoria,cpq,AutomatedEvent,Flight,English,English0,English1,English2,WuGongPQ,ElementThanatos,4jberserk,4jrush,Trains,Geenie,AirPlane,Boats,OrbisPQ,HenesysPQ,Romeo,Juliet,Pirate,Ellin,DollHouse,BossBalrog_NORMAL,Nibergen,PinkBeanBattle,ZakumBattle,NamelessMagicMonster,Dunas,Dunas2,ZakumPQ,LudiPQ,KerningPQ,ProtectTylus,Vergamot,CoreBlaze,GuildQuest,Aufhaven,Subway,KyrinTrainingGroundC,KyrinTrainingGroundV,ProtectPig,ScarTarBattle,s4resurrection,s4resurrection2,s4nest,s4aWorld,DLPracticeField,AutoSave,ServerMessage,BossQuestEASY,BossQuestHARD,BossQuestHELL,BossQuestMed,shaoling,Ravana,MV,BossBalrog,Ghostbaby,MagicQuest1,Francis,Relic,aran3rd,aran3rd2,aran4th,ProtectRichard,SnackBar,Mechanical,FrancisAran,Cake
+server.settings.flag          = 3
+server.settings.autoRegister  = false
+server.settings.wflags        = 0
+server.settings.admin         = false
+server.settings.gmitems		  = false
+server.settings.userlimit     = 600
+server.settings.maxCharacters = 3
+server.settings.ip.listen            = 127.0.0.1
+server.settings.ip.gateway            = 127.0.0.1
+server.settings.packetLog     = false
+server.settings.debug = false
+server.crypt  = true

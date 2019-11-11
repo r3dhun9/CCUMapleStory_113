@@ -1,0 +1,8 @@
+/build/
+/dist/
+/wz/
+/logs
+/out
+/.idea
+*.ini
+.DS_STORE

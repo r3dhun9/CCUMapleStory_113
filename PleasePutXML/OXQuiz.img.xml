@@ -1,0 +1,1719 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<imgdir name="OXQuiz.img">
+    <imgdir name="1">
+        <imgdir name="1">
+            <string name="q" value="在副本地勢高的地方棲息的魔龍，是遠距離與近距離攻擊的怪物."/>
+            <int name="a" value="0"/>
+            <string name="d" value="魔龍只有近距離攻擊."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="火獨眼獸, 風獨眼獸, 冰獨眼獸是長相類似的怪物，這之中只有火獨眼獸有2個眼睛."/>
+            <int name="a" value="0"/>
+            <string name="d" value="全部都只有 1個眼睛."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="乘著掃把飛行的巫婆可以向遠處的角色射出強力的魔法光線."/>
+            <int name="a" value="0"/>
+            <string name="d" value="巫婆是近距離攻擊的怪物."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="乘著掃把飛行的巫婆對於神聖屬性魔法的抵抗力很弱."/>
+            <int name="a" value="1"/>
+            <string name="d" value="巫婆對於神聖屬性魔法很弱."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="礦山殭屍與殭屍比的話，殭屍的等級比較高"/>
+            <int name="a" value="0"/>
+            <string name="d" value="兩個的等級皆為 57"/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="飛行的蝙蝠就像飛鼠般的掛在天花板上."/>
+            <int name="a" value="0"/>
+            <string name="d" value="不休息繼續飛行."/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="就像在黃金海灘或熱帶沙灘可以看見的花蟹一樣，紅螃蟹偶爾會跳躍攻擊."/>
+            <int name="a" value="1"/>
+            <string name="d" value="雖然長得像花蟹一樣但也會跳躍攻擊."/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="q" value="藍獨角獅是會冰凍攻擊的怪物."/>
+            <int name="a" value="1"/>
+            <string name="d" value="為冰凍屬性攻擊，弱點為不死屬性的怪物."/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="q" value="長得像可愛的海龜一樣的烏龜有著強力的遠距離攻擊."/>
+            <int name="a" value="1"/>
+            <string name="d" value="烏龜為遠距離攻擊型的怪物."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="赤龍為龍類怪物中唯一會遠距離攻擊的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="赤龍與冰龍皆會遠距離攻擊."/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="主要棲息在沼地的黑鱷魚是比土龍等級還高的怪物."/>
+            <int name="a" value="1"/>
+            <string name="d" value="黑鱷魚(等級 52), 土龍(等級 45)."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="在勇士之村周圍可以看到土龍，他是龍的進化種，特徵為遠距離攻擊."/>
+            <int name="a" value="0"/>
+            <string name="d" value="只能近距離攻擊無法遠距離攻擊."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="在冰原雪域登場的所有怪獸，對於火屬性魔法的抵抗力都很弱."/>
+            <int name="a" value="0"/>
+            <string name="d" value="黑吉拉卡,黑企鵝對於神聖屬性很弱"/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="怪物短牙海豹若遭受攻擊的話會與頭上的小海豹分離，然後一起攻擊."/>
+            <int name="a" value="0"/>
+            <string name="d" value="小海豹無法分離."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="等級 100的地獄巴洛古不會中毒魔法的毒."/>
+            <int name="a" value="1"/>
+            <string name="d" value="特徵是會使毒魔法變得無效，但對神聖魔法很弱."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="乘著掃把飛行的巫婆是不死怪物."/>
+            <int name="a" value="0"/>
+            <string name="d" value="巫婆雖然對神聖屬性魔法很弱，但是不是不死怪物"/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="吃了炸蝦道具後，狩獵活跳蝦會更容易抓到."/>
+            <int name="a" value="0"/>
+            <string name="d" value="與炸蝦無關."/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="斧木妖是樵夫沒有將斧頭拔出，所以含著恨而誕生的怪物."/>
+            <int name="a" value="1"/>
+            <string name="d" value="傳說為樵夫把斧頭釘在上面後離開，所以含著恨而重新出生"/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="哈利波特和妙麗是男女朋友."/>
+            <int name="a" value="0"/>
+            <string name="d" value="哈利波特和妙麗只是朋友."/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="狼人若遭到攻擊會召喚自己的分身並攻擊."/>
+            <int name="a" value="0"/>
+            <string name="d" value="狼人沒有分身"/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="在童話村登場的鬼怪中，綠色鬼怪可使用蕎麥蒟蒻來召喚."/>
+            <int name="a" value="1"/>
+            <string name="d" value="綠色鬼怪 - 蕎麥蒟蒻"/>
+        </imgdir>
+        <imgdir name="112">
+            <string name="q" value="在童話村登場的鬼怪中，藍色鬼怪可使用豬肉串來召喚."/>
+            <int name="a" value="0"/>
+            <string name="d" value="藍色鬼怪 - 穀茶"/>
+        </imgdir>
+        <imgdir name="113">
+            <string name="q" value="在童話村登場的鬼怪中，黃色鬼怪可使用穀茶來召喚."/>
+            <int name="a" value="0"/>
+            <string name="d" value="黃色鬼怪 - 豬肉串"/>
+        </imgdir>
+        <imgdir name="114">
+            <string name="q" value="楓之谷內最弱的怪物為 &apos;菇菇仔&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="最弱的不是菇菇仔而是蝸牛."/>
+        </imgdir>
+        <imgdir name="115">
+            <string name="q" value="在動物森林中的狐狸與浣熊額頭貼著樹葉."/>
+            <int name="a" value="1"/>
+            <string name="d" value="兩隻怪物皆在額頭貼著樹葉."/>
+        </imgdir>
+        <imgdir name="116">
+            <string name="q" value="抓住上海郊外的鴨子的話可獲得潛水鞋."/>
+            <int name="a" value="0"/>
+            <string name="d" value="不是潛水鞋而是可獲得鴨蛋."/>
+        </imgdir>
+        <imgdir name="117">
+            <string name="q" value="英文APPLE的意思是柳丁."/>
+            <int name="a" value="0"/>
+            <string name="d" value="APPLE的意思是蘋果."/>
+        </imgdir>
+        <imgdir name="118">
+            <string name="q" value="2014年世界杯冠軍是巴西隊."/>
+            <int name="a" value="0"/>
+            <string name="d" value="巴西隊已經被淘汰囉."/>
+        </imgdir>
+        <imgdir name="119">
+            <string name="q" value="機器貓小叮噹最愛的食物是銅鑼燒. "/>
+            <int name="a" value="1"/>
+            <string name="d" value="沒錯小叮噹最愛吃的就是銅鑼燒."/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="q" value="人類的五官包括手."/>
+            <int name="a" value="0"/>
+            <string name="d" value="五官是眉眼耳鼻口."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="2">
+        <imgdir name="1">
+            <string name="q" value="村莊商店雖然有賣單邊銀色耳環但沒有賣紫水晶耳環."/>
+            <int name="a" value="0"/>
+            <string name="d" value="紫水晶耳環可在弓箭手村商店中購買."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="在商店購買 100%卷軸時雙手武器卷軸比單手武器卷軸還貴."/>
+            <int name="a" value="0"/>
+            <string name="d" value="雙手武器卷軸與單手武器卷軸的價錢一樣."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="魔法森林武器商店中只有販售長杖卷軸與短杖卷軸."/>
+            <int name="a" value="0"/>
+            <string name="d" value="也有販售耳環用卷軸."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="炸蝦道具只能向水世界的雜貨商人安納斯購買."/>
+            <int name="a" value="1"/>
+            <string name="d" value="其他地方沒有販售"/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="青銅弓箭與鋼鐵弓箭可透過弓箭手村的比休斯來製作."/>
+            <int name="a" value="0"/>
+            <string name="d" value="比休斯只能製作青銅弓箭."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="製作提煉石的時候最花錢的提煉石就是星石."/>
+            <int name="a" value="0"/>
+            <string name="d" value="黑暗水晶要50000楓幣，最貴"/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="為了在未裝備的道具上使用卷軸必須要習得 &apos;神匠之魂&apos; 技能才行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="必須要習得神匠之魂技能才能在為裝備的道具上使用卷軸 ."/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="怪物卡在物品欄一格中最多可重疊至100個."/>
+            <int name="a" value="0"/>
+            <string name="d" value="可重疊至1,000個."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="攻擊速度快的木精靈槍可向特產販售員百鳥警官購買."/>
+            <int name="a" value="1"/>
+            <string name="d" value="可向特產販售員百鳥警官購買木精靈槍."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="製作魔法師手套紅守護手套時需要的動物皮革總共有 60張."/>
+            <int name="a" value="1"/>
+            <string name="d" value="需要動物皮革 60張，魔法森林的艾德郎會幫忙製作."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="3">
+        <imgdir name="1">
+            <string name="q" value="暖爐是為了能在寒冷的冬天讓房裡變暖和，而在裡面放入火來使用."/>
+            <int name="a" value="1"/>
+            <string name="d" value="暖爐也可以用來烤地瓜或熱食物."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="植物的莖是根部吸收水份移動的通路."/>
+            <int name="a" value="1"/>
+            <string name="d" value="植物從根部吸收的水分藉由莖來移動."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="發光的物體稱作 &apos;光源&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="火, 陽光, 螢光等都屬於光源."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="太陽是從東邊升起的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對了!"/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="物體上發出光芒時出現亮與暗的階段稱做 &apos;明暗&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="好好表現明暗的話可以感受到該對象的立體感, 量感."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="國家的 3元素為國民, 主權, 國防"/>
+            <int name="a" value="0"/>
+            <string name="d" value="不是國防而是領土."/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="花花公子是指喜歡花錢的人."/>
+            <int name="a" value="0"/>
+            <string name="d" value="是指用情不專一的人."/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="q" value="夏季因為冷氣而得的病為冷房病."/>
+            <int name="a" value="1"/>
+            <string name="d" value="室內外的溫差為 5°C為最洽當."/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="q" value="漫畫海賊王的魯夫是吃了神奇膠囊才有了特殊能力."/>
+            <int name="a" value="0"/>
+            <string name="d" value="漫畫海賊王的魯夫是吃了惡魔果實才有了特殊能力."/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="q" value="狗是人類最忠實的好朋友."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對了!"/>
+        </imgdir>
+        <imgdir name="11">
+            <string name="q" value="汗有能將體內的廢物向外排出、調節體溫及保護皮膚的作用."/>
+            <int name="a" value="1"/>
+            <string name="d" value="適當的流汗是好的."/>
+        </imgdir>
+        <imgdir name="12">
+            <string name="q" value="夏季家中室內外溫差約5度是最適當的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="溫差5度以上的話很容易會得冷房病."/>
+        </imgdir>
+        <imgdir name="13">
+            <string name="q" value="夏季吃太多冰冷食物的話有可能會使消化能力下降."/>
+            <int name="a" value="1"/>
+            <string name="d" value="若吃冰冷食物，體內的熱氣容易不足."/>
+        </imgdir>
+        <imgdir name="14">
+            <string name="q" value="緊張時手裡出汗的原因為血壓上升、體溫升高."/>
+            <int name="a" value="1"/>
+            <string name="d" value="身體在發燒時流汗的話可以退燒."/>
+        </imgdir>
+        <imgdir name="15">
+            <string name="q" value="綠巨人浩克生氣時會變得巨大."/>
+            <int name="a" value="1"/>
+            <string name="d" value="綠巨人浩克變得巨大力量會更強."/>
+        </imgdir>
+        <imgdir name="16">
+            <string name="q" value="西瓜是水份很多的水果."/>
+            <int name="a" value="1"/>
+            <string name="d" value="西瓜內還有90%以上的水份."/>
+        </imgdir>
+        <imgdir name="17">
+            <string name="q" value="夏天的夜晚比冬天長."/>
+            <int name="a" value="0"/>
+            <string name="d" value="夏天的夜晚比冬天短."/>
+        </imgdir>
+        <imgdir name="18">
+            <string name="q" value="新楓之谷是很多小朋友喜愛的遊戲."/>
+            <int name="a" value="1"/>
+            <string name="d" value="是很多小朋友共同的回憶."/>
+        </imgdir>
+        <imgdir name="19">
+            <string name="q" value="新楓之谷目前最新的職業是隱月."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!就是隱月."/>
+        </imgdir>
+        <imgdir name="20">
+            <string name="q" value="衣食住是指人類活著必要的衣服, 飲食, 玩樂."/>
+            <int name="a" value="0"/>
+            <string name="d" value="衣食住是指衣服, 飲食, 家."/>
+        </imgdir>
+        <imgdir name="21">
+            <string name="q" value="加熱空氣的話空氣的體積會縮小."/>
+            <int name="a" value="0"/>
+            <string name="d" value="加入空氣的話空氣的體積會增加. 空氣的體積會根據溫度而不同."/>
+        </imgdir>
+        <imgdir name="22">
+            <string name="q" value="顏色的 3要素中  &apos;明度&apos;是指顏色明亮與混濁."/>
+            <int name="a" value="0"/>
+            <string name="d" value="顏色明亮與黑暗稱作明度，清澈與混濁稱為彩度."/>
+        </imgdir>
+        <imgdir name="23">
+            <string name="q" value="吸血的蚊子為雄性."/>
+            <int name="a" value="0"/>
+            <string name="d" value="吸血的蚊子為雌性, 雄性蚊子一般是吃植物的脂液(樹液)."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="NBA是世界職業籃球最高殿堂."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="青銅器時代為櫛紋陶器, 新石器時代為無紋陶器."/>
+            <int name="a" value="0"/>
+            <string name="d" value="櫛紋陶器為新石器, 無紋陶器為青銅器."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="我國的新石器時代始於 B.C 8000年間."/>
+            <int name="a" value="1"/>
+            <string name="d" value="部落族長代表部落，開始了農耕與畜牧."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="五月天團員一共有5個人."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="寫出名偵探福爾摩斯與他的朋友華生的故事的作者為阿瑟·柯南·道爾."/>
+            <int name="a" value="1"/>
+            <string name="d" value="1891年以短篇開始發表福爾摩斯系列."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="狼人在月圓之夜會變身."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="諾貝爾獎共分為物理學, 化學, 生理ㆍ醫學, 文學, 和平, 經濟學6個部門來頒獎"/>
+            <int name="a" value="1"/>
+            <string name="d" value="諾貝爾獎在 1901年首次舉行，共分為6個部門來頒獎."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="蜘蛛人可以發射蜘蛛絲飛簷走壁."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="在海邊生長的海星因為長得像星星所以英文為 &apos;Starfish&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="Starfish為海星的意思."/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="在太陽系裡，土星與海王星中間的行星為天王星."/>
+            <int name="a" value="1"/>
+            <string name="d" value="太陽-水星-金星-地球-火星-木星-土星-天王星-海王星-冥王星"/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="夏天下雨後變涼爽的原因是因為 固體→液體→氣體(吸熱反應) ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="是因為 固體→液體→氣體:吸熱反應."/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="動物在冬天睡覺稱為冬眠，在夏天睡覺稱為夏眠."/>
+            <int name="a" value="1"/>
+            <string name="d" value="進行夏眠的動物有玉筋鱼, 海參, 瓢蟲等."/>
+        </imgdir>
+        <imgdir name="112">
+            <string name="q" value="颱風的名字是由各國家分別提出10個，總140個；共分為5組。每組28個."/>
+            <int name="a" value="1"/>
+            <string name="d" value="颱風名字是由各國家分別提出後命名."/>
+        </imgdir>
+        <imgdir name="113">
+            <string name="q" value="蚊子吸人或動物血的原因是為了獲得動物性蛋白質."/>
+            <int name="a" value="1"/>
+            <string name="d" value="因為面臨即將到來的產卵期的雌性為了獲得動物性蛋白質."/>
+        </imgdir>
+        <imgdir name="114">
+            <string name="q" value="中暑時喝綠豆湯很好."/>
+            <int name="a" value="1"/>
+            <string name="d" value="中暑時若喝綠豆湯可以降低身體的熱."/>
+        </imgdir>
+        <imgdir name="115">
+            <string name="q" value="酒後絕對不能開車."/>
+            <int name="a" value="1"/>
+            <string name="d" value="喝酒不開車.開車不喝酒."/>
+        </imgdir>
+        <imgdir name="116">
+            <string name="q" value="英文字母共有26個."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="117">
+            <string name="q" value="山上因為氣壓低的緣故，要比在平地用更高溫度才能煮開開水."/>
+            <int name="a" value="0"/>
+            <string name="d" value="在山頂上以低溫煮水來煮飯的話，容易煮不熟."/>
+        </imgdir>
+        <imgdir name="118">
+            <string name="q" value="周星馳演過上海灘賭聖."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="119">
+            <string name="q" value="籃球之神Michael Jordan的Michael是姓，Jordan是名"/>
+            <int name="a" value="0"/>
+            <string name="d" value="Jordan是姓，Michael是名"/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="q" value="中秋節與端午節, 春節被稱為我國三大佳節."/>
+            <int name="a" value="1"/>
+            <string name="d" value="三大佳節為端午節,春節,中秋節."/>
+        </imgdir>
+        <imgdir name="121">
+            <string name="q" value="新楓之谷遊戲中的熱鍵是預設好的不能變動."/>
+            <int name="a" value="0"/>
+            <string name="d" value="熱鍵可以重新設定."/>
+        </imgdir>
+        <imgdir name="122">
+            <string name="q" value="本土綜藝天王是LOCALKING吳宗憲."/>
+            <int name="a" value="1"/>
+            <string name="d" value="LOCALKING就是吳宗憲."/>
+        </imgdir>
+        <imgdir name="123">
+            <string name="q" value="卜派吃番茄也能變身."/>
+            <int name="a" value="0"/>
+            <string name="d" value="卜派吃菠菜才能變身."/>
+        </imgdir>
+        <imgdir name="124">
+            <string name="q" value="在海裡生活的蝦子與其他的魚貝類不同，腦是在尾巴上的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="蝦子的腦是在頭上."/>
+        </imgdir>
+        <imgdir name="125">
+            <string name="q" value="紅茶種類中有種 &apos;錫蘭紅茶&apos;. 這裡的錫蘭是一個盛產紅茶的印度村莊名字."/>
+            <int name="a" value="0"/>
+            <string name="d" value="錫蘭是斯里蘭卡的地名"/>
+        </imgdir>
+        <imgdir name="126">
+            <string name="q" value="攀登至珠穆朗瑪峰最高峰的日本人田部井淳子，是靠著吃壽司一邊克服酷寒一邊征服山頂的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="流傳是吃泡菜鍋克服嚴寒的."/>
+        </imgdir>
+        <imgdir name="127">
+            <string name="q" value="幻獸師能使用大象的能力."/>
+            <int name="a" value="0"/>
+            <string name="d" value="幻獸師能使用豹熊鷹貓四種動物的能力."/>
+        </imgdir>
+        <imgdir name="128">
+            <string name="q" value="2014年金曲獎最佳男歌手是周杰倫."/>
+            <int name="a" value="0"/>
+            <string name="d" value="2014年金曲獎最佳男歌手是林俊傑."/>
+        </imgdir>
+        <imgdir name="129">
+            <string name="q" value="河馬的汗是紅色的"/>
+            <int name="a" value="1"/>
+            <string name="d" value="河馬的汗為紅色是因為河馬會分泌出一種黏膩的紅色分泌物"/>
+        </imgdir>
+        <imgdir name="130">
+            <string name="q" value="汗比眼淚更鹹."/>
+            <int name="a" value="0"/>
+            <string name="d" value="眼淚更鹹.汗中有 99%是水，眼淚成分有 98%是水"/>
+        </imgdir>
+        <imgdir name="131">
+            <string name="q" value="撲克牌共有3種花色."/>
+            <int name="a" value="0"/>
+            <string name="d" value="撲克牌共有黑桃紅心方塊梅花4種花色."/>
+        </imgdir>
+        <imgdir name="132">
+            <string name="q" value="使用白棋子與黑棋子來決勝的圍棋是在圍棋盤上進行的遊戲. 那麼圍棋盤上交點的個數為 361個."/>
+            <int name="a" value="1"/>
+            <string name="d" value="19 x 19 = 361."/>
+        </imgdir>
+        <imgdir name="133">
+            <string name="q" value="打麻將相公的時候不能胡牌."/>
+            <int name="a" value="1"/>
+            <string name="d" value="麻將規定：相公的時候不能胡牌."/>
+        </imgdir>
+        <imgdir name="134">
+            <string name="q" value="餵食狗狗太鹹的食物，狗狗會容易生病."/>
+            <int name="a" value="1"/>
+            <string name="d" value="寵物吃太鹹的食物容易得皮膚病，和內臟方面的疾病."/>
+        </imgdir>
+        <imgdir name="135">
+            <string name="q" value="冬天比夏天更容易發生高血壓."/>
+            <int name="a" value="1"/>
+            <string name="d" value="因為天氣冷血管收縮壓力變高."/>
+        </imgdir>
+        <imgdir name="136">
+            <string name="q" value="美國的代表股票價格指數為 &apos;道瓊指數&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="在道˙瓊斯指數中共同發表每日發表的4種股票價格平均指數"/>
+        </imgdir>
+        <imgdir name="137">
+            <string name="q" value="英國因鴉片戰爭勝利而佔領的香港在1997年回歸中國."/>
+            <int name="a" value="1"/>
+            <string name="d" value="1997年 7月 1日結束 155年的殖民統治回歸中國."/>
+        </imgdir>
+        <imgdir name="138">
+            <string name="q" value="冰淇淋最早是由中國製作的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="最早是在5世界時作為中國皇帝甜點的冰果."/>
+        </imgdir>
+        <imgdir name="139">
+            <string name="q" value="印刷術發明後最早使用印刷發行的報紙為德國的 &apos;Flug-blatt&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="德國新聞Flug-blatt是最早的印刷報紙."/>
+        </imgdir>
+        <imgdir name="140">
+            <string name="q" value="小叮噹的耳朵是被老鼠咬掉的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="141">
+            <string name="q" value="被譽為世界大師的梵谷, 保羅˙高更等皆為後期印象派畫家."/>
+            <int name="a" value="1"/>
+            <string name="d" value="梵谷, 保羅˙高更等皆為後期印象派代表畫家."/>
+        </imgdir>
+        <imgdir name="142">
+            <string name="q" value="德國魏格納所主張的大陸飄移說中，所提出的有一個大陸出現指的是 &apos;聯合古陸&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="聯合古陸意思是一個很大的大陸."/>
+        </imgdir>
+        <imgdir name="143">
+            <string name="q" value="世界最早的電腦是美國賓夕法尼亞大學所製作的Eniac."/>
+            <int name="a" value="1"/>
+            <string name="d" value="Eniac是在1946年最早被製作出的電腦."/>
+        </imgdir>
+        <imgdir name="144">
+            <string name="q" value="小叮噹的妹妹叫做技安妹."/>
+            <int name="a" value="0"/>
+            <string name="d" value="小叮噹的妹妹叫做小叮鈴."/>
+        </imgdir>
+        <imgdir name="145">
+            <string name="q" value="animation有活著的意思，他的語源是Anima."/>
+            <int name="a" value="1"/>
+            <string name="d" value="可以看見感覺各個圖片連續的移動."/>
+        </imgdir>
+        <imgdir name="146">
+            <string name="q" value="江南大叔PSY紅遍全球的舞蹈叫做霹靂舞."/>
+            <int name="a" value="0"/>
+            <string name="d" value="江南大叔PSY紅遍全球的舞蹈叫做騎馬舞."/>
+        </imgdir>
+        <imgdir name="147">
+            <string name="q" value="桃園三結義是指劉禪.關羽.張飛義結金蘭的故事."/>
+            <int name="a" value="0"/>
+            <string name="d" value="桃園三結義是劉備.關羽.張飛三人."/>
+        </imgdir>
+        <imgdir name="148">
+            <string name="q" value="同花順打的贏Full House."/>
+            <int name="a" value="1"/>
+            <string name="d" value="撲克牌牌型中，同花順比Full House大."/>
+        </imgdir>
+        <imgdir name="149">
+            <string name="q" value="母蟬有著特別的發聲器所以可以發出很高的聲音."/>
+            <int name="a" value="0"/>
+            <string name="d" value="公蟬有特殊的發聲器所以可以發出很高的聲音."/>
+        </imgdir>
+        <imgdir name="150">
+            <string name="q" value="紫禁城在上海."/>
+            <int name="a" value="0"/>
+            <string name="d" value="紫禁城在北京是知名古蹟."/>
+        </imgdir>
+        <imgdir name="151">
+            <string name="q" value="忍者龜的師傅是一隻老鼠."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="152">
+            <string name="q" value="企鵝不會冬眠."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="153">
+            <string name="q" value="韓文(訊民正音)是在1446年被創造出來的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="創造完成的時間是1443年，並於1446年出版."/>
+        </imgdir>
+        <imgdir name="154">
+            <string name="q" value="朝鮮末年與韓國最早簽訂通商條款的是美國."/>
+            <int name="a" value="0"/>
+            <string name="d" value="最早簽訂的江華島條約是因為日本而強制簽訂的."/>
+        </imgdir>
+        <imgdir name="155">
+            <string name="q" value="地球公轉一圈需要365天."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="156">
+            <string name="q" value="日本最高的山是富士山."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="157">
+            <string name="q" value="世界第7大不可思議中的其中一個是法老王的金字塔側面與底面全部都是正三角形."/>
+            <int name="a" value="0"/>
+            <string name="d" value="側面是三角形，底面是四角形."/>
+        </imgdir>
+        <imgdir name="158">
+            <string name="q" value="恐龍的名字經常會加上sauros， sauros的拉丁語有 &apos;恐怖&apos;,&apos;可怕&apos;的意思."/>
+            <int name="a" value="0"/>
+            <string name="d" value="sauros的拉丁語有大蜥蜴的意思."/>
+        </imgdir>
+        <imgdir name="159">
+            <string name="q" value="以巨大白鯨與亞哈故事為背景描繪的是法國小說白鯨記"/>
+            <int name="a" value="0"/>
+            <string name="d" value="白鯨是美國小說家 H.Melville的作品."/>
+        </imgdir>
+        <imgdir name="160">
+            <string name="q" value="法國的象徵動物是公雞."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="161">
+            <string name="q" value="法國的著名小說小王子的作者是安托萬·德·聖-埃克絮佩里."/>
+            <int name="a" value="1"/>
+            <string name="d" value="本名 : Antoine Marie Roger De Saint Exupery"/>
+        </imgdir>
+        <imgdir name="162">
+            <string name="q" value="1993年在法國出現繪有小王子的鈔票."/>
+            <int name="a" value="1"/>
+            <string name="d" value="正面是安托萬·德·聖-埃克絮佩里的肖像, 背面畫有&apos;小王子&apos;的可愛角色"/>
+        </imgdir>
+        <imgdir name="163">
+            <string name="q" value="製作dos,window等的 MS(micro soft)的創辦人為 史蒂芬˙霍金博士."/>
+            <int name="a" value="0"/>
+            <string name="d" value="micro soft公司的創辦人是比爾蓋茲."/>
+        </imgdir>
+        <imgdir name="164">
+            <string name="q" value="聖經中帶領大家渡過紅海的人叫做宙斯."/>
+            <int name="a" value="0"/>
+            <string name="d" value="聖經中帶領大家渡過紅海的人叫做摩西."/>
+        </imgdir>
+        <imgdir name="165">
+            <string name="q" value="台灣最高的山是阿里山."/>
+            <int name="a" value="0"/>
+            <string name="d" value="台灣最高的山是玉山."/>
+        </imgdir>
+        <imgdir name="166">
+            <string name="q" value="選舉時根據心情或狀況的變化更換政黨或候選人的不透明投票稱為不投票."/>
+            <int name="a" value="0"/>
+            <string name="d" value="稱為浮動票."/>
+        </imgdir>
+        <imgdir name="167">
+            <string name="q" value="媽祖是保護漁民的神明."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="168">
+            <string name="q" value="馬是站著睡覺的其中一種動物，長頸鹿也和馬一樣站著睡覺."/>
+            <int name="a" value="1"/>
+            <string name="d" value="長頸鹿跟馬都是站著睡覺."/>
+        </imgdir>
+        <imgdir name="169">
+            <string name="q" value="2014年是馬年."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="170">
+            <string name="q" value="太陽系中最大的行星是金星."/>
+            <int name="a" value="0"/>
+            <string name="d" value="最大的行星是木星."/>
+        </imgdir>
+        <imgdir name="171">
+            <string name="q" value="變色龍如果戴上眼罩身體就無法變換顏色"/>
+            <int name="a" value="0"/>
+            <string name="d" value="變色龍是用眼睛看周邊的顏色來改變顏色的."/>
+        </imgdir>
+        <imgdir name="172">
+            <string name="q" value="鯊魚的牙齒不論怎麼掉了或斷裂還是會繼續長出來"/>
+            <int name="a" value="1"/>
+            <string name="d" value="鯊魚會繼續長出牙齒."/>
+        </imgdir>
+        <imgdir name="173">
+            <string name="q" value="貓咪沒有眉毛,也沒有睫毛"/>
+            <int name="a" value="0"/>
+            <string name="d" value="眉毛與睫毛都有."/>
+        </imgdir>
+        <imgdir name="174">
+            <string name="q" value="人的一生中就算掌紋改變了，指紋是不會變的"/>
+            <int name="a" value="1"/>
+            <string name="d" value="指紋不會變."/>
+        </imgdir>
+        <imgdir name="175">
+            <string name="q" value="郵票的周圍的鋸齒狀是為了方便撕開郵票."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="176">
+            <string name="q" value="蝸牛沒有牙齒"/>
+            <int name="a" value="0"/>
+            <string name="d" value="蝸牛也有牙齒."/>
+        </imgdir>
+        <imgdir name="177">
+            <string name="q" value="金魚可以向後游."/>
+            <int name="a" value="0"/>
+            <string name="d" value="鰭在構造上無法向後游."/>
+        </imgdir>
+        <imgdir name="178">
+            <string name="q" value="公雞可以下蛋."/>
+            <int name="a" value="1"/>
+            <string name="d" value="因賀爾蒙異常而變中性化的公雞是有可能會產下未成熟的蛋."/>
+        </imgdir>
+        <imgdir name="179">
+            <string name="q" value="蜉蝣有嘴巴."/>
+            <int name="a" value="0"/>
+            <string name="d" value="因為生命短，消化器官退化，所以沒有嘴巴."/>
+        </imgdir>
+        <imgdir name="180">
+            <string name="q" value="有測量辣味的單位."/>
+            <int name="a" value="1"/>
+            <string name="d" value="關於辣椒的辣味，南韓國際性的基準稱為 SHU(Scoville Heat Unit)."/>
+        </imgdir>
+        <imgdir name="181">
+            <string name="q" value="感受到恐怖的話體溫會下降."/>
+            <int name="a" value="0"/>
+            <string name="d" value="感受到恐怖時因為交感神經體溫會上升."/>
+        </imgdir>
+        <imgdir name="182">
+            <string name="q" value="按照大多數國家和地區的風俗，結婚戒指一般應該戴在左手中指上."/>
+            <int name="a" value="0"/>
+            <string name="d" value="按照大多數國家和地區的風俗，結婚戒指一般應該戴在左手無名指上."/>
+        </imgdir>
+        <imgdir name="183">
+            <string name="q" value="長頸鹿跟人的頸骨數一樣."/>
+            <int name="a" value="1"/>
+            <string name="d" value="兩個的頸骨都是7個."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="4">
+        <imgdir name="1">
+            <string name="q" value="攻擊藥水在3分鐘內可以提升物理攻擊力10."/>
+            <int name="a" value="0"/>
+            <string name="d" value="物理攻擊力3分鐘內上升5."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="在魔法森林雜貨店購買藍色藥水的話，比起其他村莊便宜，用8楓幣就可購買1個藥水."/>
+            <int name="a" value="1"/>
+            <string name="d" value="在魔法森林雜貨店中可以便宜購買藍色藥水."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="喝下速度藥水的話5分鐘內會增加移動速度."/>
+            <int name="a" value="0"/>
+            <string name="d" value="3分鐘內會增加移動速度."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="喝下魔力藥水的話 5分鐘內會增加魔力 10."/>
+            <int name="a" value="0"/>
+            <string name="d" value="魔力在3分鐘內會增加 5."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="喝下枯木樹液的話5分鐘內魔法攻擊力增加 10."/>
+            <int name="a" value="1"/>
+            <string name="d" value="魔法攻擊力在5分鐘內增加 10."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="吃下暴龍之肉的話 5分鐘內會增加物理防禦力100."/>
+            <int name="a" value="1"/>
+            <string name="d" value="物理防禦力在 5分鐘內增加 100."/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="喝下暴龍之血的話 5分鐘內會增加物理攻擊力 10."/>
+            <int name="a" value="0"/>
+            <string name="d" value="物理攻擊力在 5分鐘內會增加 5."/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="q" value="只要喝下1個超級藥水就能100%恢復 HP與 MP."/>
+            <int name="a" value="1"/>
+            <string name="d" value="超級藥水可恢復全部的 HP,MP"/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="q" value="玩具城裡販售的藥丸比起其他藥水來說，可以持有更多."/>
+            <int name="a" value="1"/>
+            <string name="d" value="一格可持有 100個藥水，但因藥丸體積較小所以可持有150個."/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="q" value="楓之谷世界中有可以治療所有狀態異常的藥."/>
+            <int name="a" value="1"/>
+            <string name="d" value="有可治療所有狀態異常的萬能療傷藥."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="喝下命中藥水的話 5分鐘內命中率會增加 100."/>
+            <int name="a" value="1"/>
+            <string name="d" value="命中率在 5分鐘內增加 100."/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="喝下敏捷藥水的話3分鐘內迴避會增加 100."/>
+            <int name="a" value="1"/>
+            <string name="d" value="迴避在 3分鐘內會增加 100."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="黃昏之露可使 MP恢復 5000 "/>
+            <int name="a" value="1"/>
+            <string name="d" value="使MP恢復 5000 "/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="清晨之露可使 HP恢復 4000 "/>
+            <int name="a" value="0"/>
+            <string name="d" value="使MP恢復 4000 "/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="24小時路邊攤, 珍, 拜倫, 哈娜, 豪素夫, 米斯級等都有販售礦泉水."/>
+            <int name="a" value="0"/>
+            <string name="d" value="維多利亞港的珍沒有販售礦泉水."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="疼痛舒緩劑只可從地球防衛本部特派所中購買."/>
+            <int name="a" value="1"/>
+            <string name="d" value="疼痛舒緩劑只有在開發的特派所有販賣."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="NPC妖精克莉爾在天空之城武器商店裡."/>
+            <int name="a" value="0"/>
+            <string name="d" value="妖精克莉爾在天空之城雜貨商店裡."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="好吃的黑輪與各種蔬菜串成的黑輪竹串可以提升 MP 500."/>
+            <int name="a" value="0"/>
+            <string name="d" value="黑輪(竹串)可以恢復 MP250."/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="日式炒麵(雙份)比起日式炒麵可多提升魔法攻擊力 10 ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="雙份日式炒麵比起日式炒麵5分鐘可提升更多的魔法攻擊力."/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="比起章魚燒在5分鐘可提升更多攻擊力的加量章魚燒價格貴 2倍."/>
+            <int name="a" value="0"/>
+            <string name="d" value="章魚燒:2000楓幣 , 加量章魚燒: 4200楓幣"/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="中華拉麵,豚骨拉麵,海鮮粥可恢復所有 HP."/>
+            <int name="a" value="0"/>
+            <string name="d" value="可恢復所有 HP."/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="販賣拉麵,中華拉麵的廚師 NPC的名字為元泰 ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="拉麵廚師元泰販售各種拉麵."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="5">
+        <imgdir name="1">
+            <string name="q" value="勇士村 &apos;與安卓思共舞&apos;任務只有 1轉過的角色才能完成."/>
+            <int name="a" value="0"/>
+            <string name="d" value="沒有轉職也能執行任務."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="完成維多利亞港 &apos;珍與黑肥肥&apos; 任務的話可從珍那裡得到頭盔防禦卷軸."/>
+            <int name="a" value="0"/>
+            <string name="d" value="不是頭盔防禦卷軸而是可獲得武器卷軸 1個."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="墮落城市組隊任務在有其他隊伍進行任務時無法入場."/>
+            <int name="a" value="1"/>
+            <string name="d" value="其他組隊在進行任務時無法入場."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="墮落城市的離家少年阿勒斯的父親是奇幻村一般桑拿房的泰實夫."/>
+            <int name="a" value="0"/>
+            <string name="d" value="阿勒斯的父親是弓箭手村的長老斯坦."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="完成約翰的粉紅花籃任務的話可從約翰那獲得螺絲 30個."/>
+            <int name="a" value="1"/>
+            <string name="d" value="從約翰那獲得螺絲30個."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="地鐵站 服務員販賣的工地 B1,B2,B3 入場費全部為 2000楓幣."/>
+            <int name="a" value="0"/>
+            <string name="d" value="B1-500楓幣,B2-1200楓幣,B3-2000楓幣"/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="墮落城市組隊任務的等級限制為 Lev20~Lev30 ."/>
+            <int name="a" value="0"/>
+            <string name="d" value="等級限制為 21~30 ."/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="q" value="與安卓斯共舞&apos;的蓋新家任務要有人氣度 5以上才能進行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="只有人氣度 10 以上的角色才可進行."/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="q" value="製作薩比特拉瑪的返老還童藥任務可獲得星石與月石."/>
+            <int name="a" value="1"/>
+            <string name="d" value="非薩比特拉瑪要求道具的情況可獲得月石."/>
+        </imgdir>
+        <imgdir name="10">
+            <string name="q" value="墮落城市組隊任務總共有5個階段."/>
+            <int name="a" value="1"/>
+            <string name="d" value="總共 5個階段都要完成才行. 也有bonus舞台."/>
+        </imgdir>
+        <imgdir name="11">
+            <string name="q" value="野外地圖也可能會有NPC存在"/>
+            <int name="a" value="1"/>
+            <string name="d" value="野外地圖也可能會有NPC存在"/>
+        </imgdir>
+        <imgdir name="12">
+            <string name="q" value="完成拿錯的藥草的任務時獲得 EXP 500."/>
+            <int name="a" value="1"/>
+            <string name="d" value="獲得500經驗值後完成."/>
+        </imgdir>
+        <imgdir name="13">
+            <string name="q" value="&quot;菇菇寶貝&quot;伺服器創的角色，也可以在&quot;雪吉拉伺服器&quot;玩"/>
+            <int name="a" value="0"/>
+            <string name="d" value="角色無法跨伺服器玩"/>
+        </imgdir>
+        <imgdir name="14">
+            <string name="q" value="捉到培利堤安可獲得任務材料記憶的碎片"/>
+            <int name="a" value="0"/>
+            <string name="d" value="可從馬堤安那獲得"/>
+        </imgdir>
+        <imgdir name="15">
+            <string name="q" value="組隊任務的任務總共有 9個階段，必須要由 6位組成隊伍才行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="等級限制為 35~50."/>
+        </imgdir>
+        <imgdir name="16">
+            <string name="q" value="完成弓箭手村中 &apos;瑪亞與奇怪的藥&apos;任務的話可從瑪亞那獲得 &apos;褐色斗笠&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="可從瑪亞那獲得褐色斗笠."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="楓之谷遊戲畫面左上角小地圖，不能關掉."/>
+            <int name="a" value="0"/>
+            <string name="d" value="左上角小地圖可以關掉."/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="任務地圖忍耐森林總共由 5個階段組成."/>
+            <int name="a" value="1"/>
+            <string name="d" value="製作減肥藥 製作返老還童藥 "/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="雜貨店購買的道具&quot;雞蛋&quot;作用是送NPC增加友好度."/>
+            <int name="a" value="0"/>
+            <string name="d" value="&quot;雞蛋&quot;作用是拿來恢復HP."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="泰實夫任務所需的特製烤鰻魚材料為猴子的香蕉,風獨眼獸之尾巴,肥肥頭."/>
+            <int name="a" value="0"/>
+            <string name="d" value="特製烤鰻魚中沒有猴子的香蕉"/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="任務地圖沉睡森林總共由 7個階段組成."/>
+            <int name="a" value="1"/>
+            <string name="d" value="沉睡森林總共由 7個階段組成"/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="為了完全完成妖精羅雯和詛咒的娃娃任務，需要的詛咒的娃娃個數為 2千3百個."/>
+            <int name="a" value="1"/>
+            <string name="d" value="各需要100個,200個,400個,600個,1000個"/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="完成與安卓斯共舞&apos;的蓋新家任務時會隨機獲得武器強化卷軸(10%)."/>
+            <int name="a" value="0"/>
+            <string name="d" value="與安卓斯共舞&apos;的蓋新家任務的獎勵可選擇職業別."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="完成與安卓斯共舞&apos;的蓋新家任務需要的材料中的&apos;地契&apos;可從冰獨眼獸那獲得."/>
+            <int name="a" value="0"/>
+            <string name="d" value="地契可從風獨眼獸那獲得 "/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="神術士不是楓之谷的職業."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="小地圖中顯示為&quot;紅色圈圈&quot;代表的是其他玩家"/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="玩家可以在自由市場PK"/>
+            <int name="a" value="0"/>
+            <string name="d" value="自由市場無法PK"/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="等級 50以上可執行的任務為新手外全職業皆可執行的任務."/>
+            <int name="a" value="0"/>
+            <string name="d" value="從等級 55開始新手外的全職業皆可進行"/>
+        </imgdir>
+        <imgdir name="112">
+            <string name="q" value="為了提煉黑暗水晶，必須要完成部分任務才行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="任務中必須要完成亞凱斯特和黑暗水晶任務才行"/>
+        </imgdir>
+        <imgdir name="113">
+            <string name="q" value="皮奧資源回收任務的獎勵為休閒椅."/>
+            <int name="a" value="1"/>
+            <string name="d" value="坐在休閒椅上的話每 10秒恢復 HP 50."/>
+        </imgdir>
+        <imgdir name="114">
+            <string name="q" value="[伊卡路斯的滑翔翼] 任務中完成 [好無聊] 任務只有等級 32以上的角色可執行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="必須完成先行任務&apos;好無聊&apos;任務才行."/>
+        </imgdir>
+        <imgdir name="115">
+            <string name="q" value="必須要完成妖精維英給的 [幫忙寫作業]任務中的 [伊卡路斯的熱氣球]任務才可執行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="只有等級10以上的角色才可進行[伊卡路斯的滑翔翼]任務."/>
+        </imgdir>
+        <imgdir name="116">
+            <string name="q" value="抓到魔女怪物[巫婆]的話就可獲得任務戰利品中其中的一個魔女草葉子."/>
+            <int name="a" value="0"/>
+            <string name="d" value="攻擊魔女的話可獲得魔女草葉子."/>
+        </imgdir>
+        <imgdir name="117">
+            <string name="q" value="完成NPC邪摩斯給的 [爲復活準備]任務的話人氣度會下降 -2 ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="獲得鞋子相關卷軸人氣度會下降."/>
+        </imgdir>
+        <imgdir name="118">
+            <string name="q" value="[封印住神秘危險之力的儀式 1]任務所需道具為冰獨眼獸給的涼爽的氣息 33個."/>
+            <int name="a" value="0"/>
+            <string name="d" value="冰獨眼獸給的道具為冷漠的氣息."/>
+        </imgdir>
+        <imgdir name="119">
+            <string name="q" value="為了進行[大海的遇難者]任務必須要擁有 SES請求救援信才行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="必須要擁有怪物掉寶的 SOS請求救援信才行."/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="q" value="[有關轉職的指導]任務中坤出的問題共 5題."/>
+            <int name="a" value="0"/>
+            <string name="d" value="總共猜對 3題的話可以進行至下一階段."/>
+        </imgdir>
+        <imgdir name="121">
+            <string name="q" value="自由女神像是英國送給美國的禮物."/>
+            <int name="a" value="0"/>
+            <string name="d" value="自由女神像是法國送給美國的禮物."/>
+        </imgdir>
+        <imgdir name="122">
+            <string name="q" value="著名畫家徐悲鴻以擅長畫龍而聞名."/>
+            <int name="a" value="0"/>
+            <string name="d" value="著名畫家徐悲鴻以擅長畫馬而聞名."/>
+        </imgdir>
+        <imgdir name="123">
+            <string name="q" value="中秋節的時候大家都愛吃粽子."/>
+            <int name="a" value="0"/>
+            <string name="d" value="端午節的時候大家都愛吃粽子."/>
+        </imgdir>
+        <imgdir name="124">
+            <string name="q" value="人體最大的解毒器官是肝臟."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="125">
+            <string name="q" value="完成秀茲的興趣任務的話可以獲得獎勵氧氣筒."/>
+            <int name="a" value="0"/>
+            <string name="d" value="秀茲的興趣任務的獎勵為經驗值與氣泡."/>
+        </imgdir>
+        <imgdir name="126">
+            <string name="q" value="狗狗熱的時候用舌頭散熱."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="127">
+            <string name="q" value="組隊任務 &apos;月妙的年糕&apos;&apos;要等級 10以上才可參加."/>
+            <int name="a" value="1"/>
+            <string name="d" value="月妙的年糕任務限制等級為 10以上."/>
+        </imgdir>
+        <imgdir name="128">
+            <string name="q" value="古希臘古羅馬神話中的諸神裡面，被稱為愛神的是邱比特."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="129">
+            <string name="q" value="組隊任務 &apos;月妙的年糕&apos;若與弓箭手村公園的 NPC 托尼對話的話可入場."/>
+            <int name="a" value="0"/>
+            <string name="d" value="NPC 達爾利."/>
+        </imgdir>
+        <imgdir name="130">
+            <string name="q" value="魔王巴洛古困難模式遠征隊員最多可至6名."/>
+            <int name="a" value="0"/>
+            <string name="d" value="魔王巴洛古困難模式遠征隊員可 6名 ~ 15名一起."/>
+        </imgdir>
+        <imgdir name="131">
+            <string name="q" value="菇菇王國的公主名字為 &apos;菲歐拉&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="菇菇王國的公主名字為 &apos;菲歐娜&apos; ."/>
+        </imgdir>
+        <imgdir name="132">
+            <string name="q" value="怪物生存戰:未開放地區可使用等級為 25 ~ 35."/>
+            <int name="a" value="0"/>
+            <string name="d" value="怪物生存戰:未開放地區可使用等級為 25 ~ 30."/>
+        </imgdir>
+        <imgdir name="133">
+            <string name="q" value="想成為名譽地鐵站服務員話必須消滅堆積灰塵的站台的怪物 5,000隻."/>
+            <int name="a" value="0"/>
+            <string name="d" value="消滅堆積灰塵的站台的怪物 10,000隻以上的話可獲得名譽地鐵站服務員勳章."/>
+        </imgdir>
+        <imgdir name="134">
+            <string name="q" value="墮落廣場的 &apos;赫一&apos;說想成為歌手."/>
+            <int name="a" value="1"/>
+            <string name="d" value="墮落廣場的 &apos;赫一&apos;的夢想是成為歌手."/>
+        </imgdir>
+        <imgdir name="135">
+            <string name="q" value="在奈特的金字塔中消滅怪物 50,000隻以上可成為法老的守護者."/>
+            <int name="a" value="1"/>
+            <string name="d" value="與模式無關在奈特的金字塔消滅怪物 50,000隻以上的話可獲得法老的守護者勳章."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="6">
+        <imgdir name="1">
+            <string name="q" value="為了2次轉職收集來黑珠子 30個的話可獲得 &apos;英雄證書&apos;道具."/>
+            <int name="a" value="1"/>
+            <string name="d" value="英雄證書是 2次轉職的所需道具."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="新手等級10時可選擇戰士, 魔法師, 弓箭手, 盜賊, 海盜中其中一個職業."/>
+            <int name="a" value="0"/>
+            <string name="d" value="魔法師在等級8時可轉職."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="新手初次轉職的話可獲得技能點數 1點."/>
+            <int name="a" value="1"/>
+            <string name="d" value="新手轉職的話可獲得技能點數 1點."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="為了4次轉職， 已3次轉職的角色等級須達到 120以上才行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="從120以上考 4次轉職."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="魔法師可使用可瞬間移動的 &apos;瞬間移動&apos;技能."/>
+            <int name="a" value="1"/>
+            <string name="d" value="魔法師可使用瞬間移動."/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="隱身術為盜賊的技術，可隱藏自己的樣子並攻擊怪物."/>
+            <int name="a" value="0"/>
+            <string name="d" value="以隱藏的樣子無法攻擊怪物."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="槍騎兵的 &apos;武神招來&apos; 技能全部學系使用的話最多可增加 HP, MP各 60%."/>
+            <int name="a" value="1"/>
+            <string name="d" value="精通大師的情況各增加 60%."/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="使用弓箭的射手技能中 &apos;穿透之箭&apos;全精通的話會增加 180% 傷害."/>
+            <int name="a" value="1"/>
+            <string name="d" value="穿透之箭全部精通的話會增加 180%的傷害."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="盜賊在跳躍的狀態可使用發射飛鏢的技能 &apos;lucky seven&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="盜賊在跳躍的狀態可使用 &apos;lucky seven&apos;技能."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="新手為了轉職為盜賊而去的地方為 &apos;盜賊基地&apos; ."/>
+            <int name="a" value="0"/>
+            <string name="d" value="為了轉職而去的地方為 &apos;盜賊基地&apos; ."/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="使用弓箭的射手的轉職順序為 [弓箭手 →獵人→ 遊俠→神射手] ."/>
+            <int name="a" value="0"/>
+            <string name="d" value="以 [獵人→遊俠→箭神] 順序轉職."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="使用短劍的盜賊的轉職順序為 [盜賊→俠盜→神偷→夜使者] ."/>
+            <int name="a" value="0"/>
+            <string name="d" value="以 [盜賊→俠盜→神偷→夜使者]  順序轉職."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="楓幣炸彈是可使掉落在地上的錢爆發並攻擊附近敵人的技能."/>
+            <int name="a" value="1"/>
+            <string name="d" value="使掉落在地上的錢爆發並施以傷害."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="暗殺者的 &apos;風魔手裏劍&apos; 技能消耗3個飛鏢後可射出大飛鏢."/>
+            <int name="a" value="1"/>
+            <string name="d" value="消耗3個飛鏢後會發射貫穿敵人的大飛鏢."/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="使用神偷的 &apos;落葉斬&apos;技能的話一定機率可使怪物死亡."/>
+            <int name="a" value="0"/>
+            <string name="d" value="一定機率可使怪物暈眩."/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="想學習龍騎士的 &apos;龍咆哮&apos; 技能的話 &apos;龍之獻祭&apos;技能等級需5 以上."/>
+            <int name="a" value="0"/>
+            <string name="d" value="龍之獻祭&apos; 技能需3以上."/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="想學習遊俠的 &apos;箭雨&apos; 技能的話 &apos;龍神閃&apos; 技能等級需3 以上."/>
+            <int name="a" value="0"/>
+            <string name="d" value="致命箭&apos; 技能等級需5 以上."/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="普利斯特的 &apos;聖光&apos; 技能可攻擊多數敵人."/>
+            <int name="a" value="1"/>
+            <string name="d" value="最多可攻擊 6隻怪物."/>
+        </imgdir>
+        <imgdir name="112">
+            <string name="q" value="就算普利斯特的 &apos;喚化術&apos; 技能成功，怪物的基本能力值也不會有變化."/>
+            <int name="a" value="1"/>
+            <string name="d" value="基本能力值不會有變化."/>
+        </imgdir>
+        <imgdir name="113">
+            <string name="q" value="想使用遊俠的 &apos;替身術&apos; 技能的話需1個召喚石."/>
+            <int name="a" value="0"/>
+            <string name="d" value="沒有召喚石也可使用."/>
+        </imgdir>
+        <imgdir name="114">
+            <string name="q" value="受到巫師的 &apos;冰風暴&apos; 技能攻擊的話一定時間內會結冰."/>
+            <int name="a" value="0"/>
+            <string name="d" value="命中時冰雷屬性外的怪物結凍的話，一次無法攻擊6隻以上."/>
+        </imgdir>
+        <imgdir name="115">
+            <string name="q" value="新手技能 &apos;恢復&apos;的再次使用等待時間為 15分鐘."/>
+            <int name="a" value="0"/>
+            <string name="d" value="經過10分鐘後可再次使用."/>
+        </imgdir>
+        <imgdir name="116">
+            <string name="q" value="武打動作英雄狂狼勇士登場日為 2009年 7月 9日"/>
+            <int name="a" value="1"/>
+            <string name="d" value="狂狼勇士在 2009年 7月 9日初次登場."/>
+        </imgdir>
+        <imgdir name="117">
+            <string name="q" value="狂狼勇士為了發動連環吸血技能須累積 50連環以上才行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="累積30連環時可發動."/>
+        </imgdir>
+        <imgdir name="118">
+            <string name="q" value="新手技能疾風之步的再次使用等待時間為 60秒."/>
+            <int name="a" value="1"/>
+            <string name="d" value="使用疾風之步後為了再次使用需等待 1分鐘才行."/>
+        </imgdir>
+        <imgdir name="119">
+            <string name="q" value="狂狼勇士的騎寵名字為 &apos;提提阿那&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="狂狼勇士的騎寵為狼 &apos;柳虎&apos;."/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="q" value="戰鬥衝刺技能存在使用命令."/>
+            <int name="a" value="1"/>
+            <string name="d" value="戰鬥衝刺的存在命令為 &apos;-&gt; -&gt;&apos; ."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="7">
+        <imgdir name="1">
+            <string name="q" value="初次創角連線後會從 [楓之島]開始."/>
+            <int name="a" value="1"/>
+            <string name="d" value="楓之谷第一次開始的地方是 [楓之島]."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="初次創角時會擲骰子. 此時合計 STR,DEX,INT,LUK的所有分數為 24分."/>
+            <int name="a" value="0"/>
+            <string name="d" value="合計為 25分."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="新楓之谷中見到的第一個 NPC為 &apos;莉納亞&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="新楓之谷中見到的第一個 NPC為 &apos;希娜&apos;."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="使用各村莊的計程車時尚未轉職的新手優惠價格只需支付 100楓幣就能搭乘."/>
+            <int name="a" value="0"/>
+            <string name="d" value="新手只需支付 50楓幣就能使用計程車."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="在墮落城市中可買到藥水與卷軸的藥局名字為 &apos;明藥局&apos; ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="在墮落城市中可購入藥水等物品的場所為 &apos;明藥局&apos;."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="在村莊內幾乎沒有 HP時從高處掉落也不會死."/>
+            <int name="a" value="0"/>
+            <string name="d" value="在村莊內若消耗全部的 HP時也會死."/>
+        </imgdir>
+        <imgdir name="7">
+            <string name="q" value="為了入場隱密之地需要等級10以上轉職過的角色."/>
+            <int name="a" value="0"/>
+            <string name="d" value="無等級限制、任誰都可進入."/>
+        </imgdir>
+        <imgdir name="8">
+            <string name="q" value="青蛙是兩棲動物."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="9">
+            <string name="q" value="海邊地圖黃金海灘中賣藥水的小姐名字為 &apos;拜倫&apos;"/>
+            <int name="a" value="1"/>
+            <string name="d" value="藥水商人 NPC的名字為 &apos;拜倫&apos;."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="人類的性別是由Y染色體決定的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="鯊魚是屬於淡水魚類."/>
+            <int name="a" value="0"/>
+            <string name="d" value="鯊魚是屬於海水魚類."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="2次轉職等級過 31以上時轉職的情況無法獲得bonus  SP+1."/>
+            <int name="a" value="0"/>
+            <string name="d" value="轉職時都可獲得bonus SP."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="老虎，獅子，貓在動物分類上都屬於貓科."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="在水世界的動物園中總共有 4隻怪物."/>
+            <int name="a" value="0"/>
+            <string name="d" value="巴洛古, 雪吉拉, 白狼, 緞帶肥肥, 肥肥總共有5隻怪物."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="鯨魚島的 NPC納努克帶著 4隻哈士奇."/>
+            <int name="a" value="0"/>
+            <string name="d" value="帶著褐色, 黑色, 灰色哈士奇."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="椰子樹林地圖鯨魚島地圖中的鯨魚額頭貼著OK蹦."/>
+            <int name="a" value="1"/>
+            <string name="d" value="兩隻全部都在額頭貼OK蹦."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="太公的渡船地圖中太公的魚竿上黏著 1片葉子."/>
+            <int name="a" value="1"/>
+            <string name="d" value="雖然總共黏有 3片但魚竿上只黏有1片."/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="愛奧斯塔 93樓的不倒翁能手 2拿著錘子."/>
+            <int name="a" value="1"/>
+            <string name="d" value="其他不倒翁能手拿著其他的工具."/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="往水世界的愛奧斯塔地下去的話會出現水中地圖."/>
+            <int name="a" value="0"/>
+            <string name="d" value="水世界是與愛奧斯塔連接在一起的地圖."/>
+        </imgdir>
+        <imgdir name="110">
+            <string name="q" value="為了創設公會需要有 100萬楓幣."/>
+            <int name="a" value="0"/>
+            <string name="d" value="一定要有150萬楓幣才能創設公會."/>
+        </imgdir>
+        <imgdir name="111">
+            <string name="q" value="公會的人員數最多可至 30名."/>
+            <int name="a" value="0"/>
+            <string name="d" value="公會人數最多可至 100名."/>
+        </imgdir>
+        <imgdir name="112">
+            <string name="q" value="為了使公會人員從 10名增加至 15名需要 50萬楓幣."/>
+            <int name="a" value="1"/>
+            <string name="d" value="公會人員從 10名增加至 15名需要 50萬楓幣."/>
+        </imgdir>
+        <imgdir name="113">
+            <string name="q" value="公會公告只有會長可使用."/>
+            <int name="a" value="0"/>
+            <string name="d" value="會長與副會長皆可使用公會公告功能."/>
+        </imgdir>
+        <imgdir name="114">
+            <string name="q" value="解除公會的情況需要消耗 20萬楓幣."/>
+            <int name="a" value="1"/>
+            <string name="d" value="只有會長可解除公會，需20萬楓幣."/>
+        </imgdir>
+        <imgdir name="115">
+            <string name="q" value="為了創造公會標誌需 500萬楓幣."/>
+            <int name="a" value="1"/>
+            <string name="d" value="透過NPC 蕾雅可創造公會標誌."/>
+        </imgdir>
+        <imgdir name="116">
+            <string name="q" value="創造公會與公會標誌的負責 NPC為海拉格."/>
+            <int name="a" value="0"/>
+            <string name="d" value="公會標誌的負責NPC為蕾雅."/>
+        </imgdir>
+        <imgdir name="117">
+            <string name="q" value="在村莊裡的 &apos;榮譽殿堂&apos;可確認公會排行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="在榮耀之石&apos; 可確認公會排行."/>
+        </imgdir>
+        <imgdir name="118">
+            <string name="q" value="任務提醒中最多可登錄 5個任務."/>
+            <int name="a" value="1"/>
+            <string name="d" value="最多登錄5個任務可即時確認."/>
+        </imgdir>
+        <imgdir name="119">
+            <string name="q" value="公會對抗戰加上獎勵階段總共有 6個階段."/>
+            <int name="a" value="0"/>
+            <string name="d" value="總共有 7個階段."/>
+        </imgdir>
+        <imgdir name="120">
+            <string name="q" value="公會對抗戰的背景的舊王國名字為 &apos;魯碧安&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="是威廉的古堡城."/>
+        </imgdir>
+        <imgdir name="121">
+            <string name="q" value="水世界是與天空之塔地下連接在一起的水中地圖."/>
+            <int name="a" value="1"/>
+            <string name="d" value="透過艾納斯 → 天空之塔 → 天空之塔 B2可前往."/>
+        </imgdir>
+        <imgdir name="122">
+            <string name="q" value="在水世界中每10秒會減少 HP."/>
+            <int name="a" value="1"/>
+            <string name="d" value="沒有氧氣筒或空氣瓶道具的話每 10秒會減少 HP."/>
+        </imgdir>
+        <imgdir name="123">
+            <string name="q" value="水世界的大海的遇難者 NPC名字為 &quot;魯賓遜克魯斯&quot;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="是魯賓遜."/>
+        </imgdir>
+        <imgdir name="124">
+            <string name="q" value="童話村的七南七誠兄弟的哥哥為七南."/>
+            <int name="a" value="0"/>
+            <string name="d" value="七誠是哥哥，七南是弟弟."/>
+        </imgdir>
+        <imgdir name="125">
+            <string name="q" value="使用外掛時可能會在第1次被永久限制."/>
+            <int name="a" value="1"/>
+            <string name="d" value="只要使用一次外掛就可能成為永久限制."/>
+        </imgdir>
+        <imgdir name="126">
+            <string name="q" value="透過NPC &apos;篤伊&apos;可向其他玩家寄送包裹. 使用費為 50,000楓幣."/>
+            <int name="a" value="0"/>
+            <string name="d" value="NPC篤伊, 使用費為 5,000楓幣."/>
+        </imgdir>
+        <imgdir name="127">
+            <string name="q" value="弓箭手村裡的世界之旅導遊名字為 &apos;秀匹奈爾&apos; ."/>
+            <int name="a" value="0"/>
+            <string name="d" value="世界之旅導遊為 &apos;史匹奈爾&apos;."/>
+        </imgdir>
+        <imgdir name="128">
+            <string name="q" value="弓箭手村副本入口的警衛 &apos;魯克&apos;右手拿著槍."/>
+            <int name="a" value="0"/>
+            <string name="d" value="魯克是左手拿著槍."/>
+        </imgdir>
+        <imgdir name="129">
+            <string name="q" value="勇士村的 NPC &apos;義安&apos;的父親是 &apos;布魯斯&apos;."/>
+            <int name="a" value="1"/>
+            <string name="d" value="NPC 義安的父親是布魯斯沒錯."/>
+        </imgdir>
+        <imgdir name="130">
+            <string name="q" value="在東方岩石山II的 NPC的名字為 &apos;劍士轉職教官&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="在東方岩石山ⅱ的 NPC 名字為溫斯頓."/>
+        </imgdir>
+        <imgdir name="131">
+            <string name="q" value="海怒斯出現的地圖名字為 &apos;海怒斯的深海洞穴&apos;."/>
+            <int name="a" value="0"/>
+            <string name="d" value="為&apos;海怒斯洞穴&apos;."/>
+        </imgdir>
+        <imgdir name="132">
+            <string name="q" value="在地球防衛總部的羅威草原的葛雷元老拿著魔杖."/>
+            <int name="a" value="0"/>
+            <string name="d" value="不是羅威草原而是克嵐草原."/>
+        </imgdir>
+        <imgdir name="133">
+            <string name="q" value="雙色染髮只可在夜市的美容室進行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="雙色染髮只可在夜市的美容室進行."/>
+        </imgdir>
+        <imgdir name="134">
+            <string name="q" value="NPC妙斯在水世界動物園裡 ."/>
+            <int name="a" value="1"/>
+            <string name="d" value="NPC妙斯在水世界動物園裡 ."/>
+        </imgdir>
+        <imgdir name="135">
+            <string name="q" value="寄送包裹後過 24小時對方就會收到."/>
+            <int name="a" value="0"/>
+            <string name="d" value="12小時候對方就會收到."/>
+        </imgdir>
+        <imgdir name="136">
+            <string name="q" value="娃娃魚的叫聲和嬰兒哭聲很像."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="137">
+            <string name="q" value="色澤鮮豔度高的野生蘑菇最好不要採食，有毒的可能性很大."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="138">
+            <string name="q" value="鳥類中壽命最長的是鸚鵡."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="139">
+            <string name="q" value="海豚是屬於哺乳類動物."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="140">
+            <string name="q" value="荷蘭又稱為風車之國."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="141">
+            <string name="q" value="《白雪公主》的作者是格林兄弟."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="142">
+            <string name="q" value="台灣最南的縣是屏東縣."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="143">
+            <string name="q" value="燕窩主要是由燕子的口水做成的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="144">
+            <string name="q" value="馬鈴薯發芽後是有毒不能食用的."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="145">
+            <string name="q" value="大發明家愛迪生小時後砍了爸爸的櫻桃樹."/>
+            <int name="a" value="0"/>
+            <string name="d" value="小時後砍了爸爸的櫻桃樹的人是華盛頓."/>
+        </imgdir>
+        <imgdir name="146">
+            <string name="q" value="蠟筆小新的妹妹叫做小葵."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="147">
+            <string name="q" value="世界三大宗教不包括道教."/>
+            <int name="a" value="1"/>
+            <string name="d" value="世界三大宗教是基督教、回教以及佛教."/>
+        </imgdir>
+        <imgdir name="148">
+            <string name="q" value="粽子是韓國人發明的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="粽子是中國人發明的."/>
+        </imgdir>
+        <imgdir name="149">
+            <string name="q" value="瑪迦提亞村莊的人形機器人的名字為休曼諾伊德B."/>
+            <int name="a" value="0"/>
+            <string name="d" value="瑪迦提亞村莊的人形機器人的名字為休曼諾伊德A."/>
+        </imgdir>
+        <imgdir name="150">
+            <string name="q" value="結婚小鎮的文月花右手拿著手機."/>
+            <int name="a" value="1"/>
+            <string name="d" value="平常是拿著拐杖, 有時候會拿出手機來看."/>
+        </imgdir>
+        <imgdir name="151">
+            <string name="q" value="西遊記中孫悟空的武器是金箍棒."/>
+            <int name="a" value="1"/>
+            <string name="d" value="答對囉!"/>
+        </imgdir>
+        <imgdir name="152">
+            <string name="q" value="商城中販賣的裝備道具可使能力值上升."/>
+            <int name="a" value="0"/>
+            <string name="d" value="現金裝備道具不會使能力值上升."/>
+        </imgdir>
+        <imgdir name="153">
+            <string name="q" value="蒙特鳩協會長為卡森, 卡帕萊特協會長為麥德."/>
+            <int name="a" value="1"/>
+            <string name="d" value="卡森與麥德各自擔任蒙特鳩與卡帕萊特協會長."/>
+        </imgdir>
+        <imgdir name="154">
+            <string name="q" value="楓之谷訊息中最多可邀請 2位朋友進行對話."/>
+            <int name="a" value="1"/>
+            <string name="d" value="楓之谷訊息包含本人總共可有 3位進行對話."/>
+        </imgdir>
+        <imgdir name="155">
+            <string name="q" value="封印道具1週限使用1次，可解除."/>
+            <int name="a" value="1"/>
+            <string name="d" value="透過詢問顧客中心1週可使用1次."/>
+        </imgdir>
+        <imgdir name="156">
+            <string name="q" value="沒找到快遞道具的話會在 10天後消失."/>
+            <int name="a" value="0"/>
+            <string name="d" value="快遞道具的保管期限為 30天."/>
+        </imgdir>
+        <imgdir name="157">
+            <string name="q" value="卡蜜拉說他很怕猶塔的肥肥農場的肥肥盔甲."/>
+            <int name="a" value="0"/>
+            <string name="d" value="卡蜜拉怕的是緞帶肥肥."/>
+        </imgdir>
+        <imgdir name="158">
+            <string name="q" value="童話村的燕子從小就被道公餵食仙桃與仙湯所以變得很聰明."/>
+            <int name="a" value="1"/>
+            <string name="d" value="因為仙桃與仙湯所以童話村的燕子變得很聰明."/>
+        </imgdir>
+        <imgdir name="159">
+            <string name="q" value="瑪迦提亞城的琪妮是妖精與人類的混血."/>
+            <int name="a" value="1"/>
+            <string name="d" value="瑪迦提亞城的琪妮是妖精與人類的混血."/>
+        </imgdir>
+        <imgdir name="160">
+            <string name="q" value="瑪迦提亞城的雜貨商人哲利也有販售寵物飼料."/>
+            <int name="a" value="1"/>
+            <string name="d" value="可向瑪迦提亞城的雜貨商人哲利購買寵物飼料."/>
+        </imgdir>
+        <imgdir name="161">
+            <string name="q" value="墮落城市所有的懸賞海報都有被撕過毀損的樣子."/>
+            <int name="a" value="1"/>
+            <string name="d" value="盜賊的村莊墮落城市沒有一張完整的懸賞海報."/>
+        </imgdir>
+        <imgdir name="162">
+            <string name="q" value="童話村的樂夫穿著可看見肚臍的衣服."/>
+            <int name="a" value="1"/>
+            <string name="d" value="可向童話村的樂夫確認美麗的肚臍."/>
+        </imgdir>
+        <imgdir name="163">
+            <string name="q" value="快遞員篤伊鞋子的顏色為褐色."/>
+            <int name="a" value="1"/>
+            <string name="d" value="快遞員篤伊穿著美麗褐色的鞋子."/>
+        </imgdir>
+        <imgdir name="164">
+            <string name="q" value="勇士村的倉庫王老闆是獨眼."/>
+            <int name="a" value="1"/>
+            <string name="d" value="去勇士村的話可以看到獨眼王老闆."/>
+        </imgdir>
+        <imgdir name="165">
+            <string name="q" value="在弓箭手村瑪亞的家前面有一個紅色郵筒."/>
+            <int name="a" value="1"/>
+            <string name="d" value="瑪亞的家前面有一個可愛的紅色郵筒."/>
+        </imgdir>
+        <imgdir name="166">
+            <string name="q" value="NPC 羅亞拿著的 3個氣球中最大的是紅色的."/>
+            <int name="a" value="0"/>
+            <string name="d" value="羅亞拿著的 3個氣球中最大的是藍色的."/>
+        </imgdir>
+    </imgdir>
+    <imgdir name="8">
+        <imgdir name="1">
+            <string name="q" value="世界盃第1屆比賽在義大利舉行."/>
+            <int name="a" value="0"/>
+            <string name="d" value="第1屆比賽在烏拉圭，義大利是第 2回比賽."/>
+        </imgdir>
+        <imgdir name="2">
+            <string name="q" value="世界盃每 2年就舉辦一次."/>
+            <int name="a" value="0"/>
+            <string name="d" value="每4年舉辦一次."/>
+        </imgdir>
+        <imgdir name="3">
+            <string name="q" value="南極不會出現北極熊."/>
+            <int name="a" value="1"/>
+            <string name="d" value="北極熊生活在北極."/>
+        </imgdir>
+        <imgdir name="4">
+            <string name="q" value="2002年 韓,日世界盃為第 17屆世界盃."/>
+            <int name="a" value="1"/>
+            <string name="d" value="韓,日 世界盃為第17次比賽."/>
+        </imgdir>
+        <imgdir name="5">
+            <string name="q" value="足球為 11名選手的比賽，籃球為 6名選手的比賽"/>
+            <int name="a" value="0"/>
+            <string name="d" value="籃球為 5名選手的比賽."/>
+        </imgdir>
+        <imgdir name="6">
+            <string name="q" value="奧林匹克的五環旗中亞洲代表亞洲的顏色為黃色."/>
+            <int name="a" value="1"/>
+            <string name="d" value="五環旗中黃色象徵亞洲."/>
+        </imgdir>
+        <imgdir name="100">
+            <string name="q" value="台灣也是位於赤道上的國家"/>
+            <int name="a" value="0"/>
+            <string name="d" value="台灣沒有位於赤道上，台灣位於北回歸線上."/>
+        </imgdir>
+        <imgdir name="101">
+            <string name="q" value="網球中的大滿貫是指 美國公開賽法國公開賽,澳洲公開賽,溫布頓全部包攬的意思."/>
+            <int name="a" value="1"/>
+            <string name="d" value="包攬4大國際比賽稱為大滿貫."/>
+        </imgdir>
+        <imgdir name="102">
+            <string name="q" value="在高爾夫中比擊球數少進1個球時為博蒂,少2個球時為老鹰球, 少3個球時為三振."/>
+            <int name="a" value="0"/>
+            <string name="d" value="少進3球時稱作信天翁."/>
+        </imgdir>
+        <imgdir name="103">
+            <string name="q" value="童話故事三隻小豬，最後小豬都被大野狼吃掉了."/>
+            <int name="a" value="0"/>
+            <string name="d" value="三隻小豬把大野狼趕跑了."/>
+        </imgdir>
+        <imgdir name="104">
+            <string name="q" value="在一場比賽進了3球的選手在足球裡稱作hat trick ，在冰上曲棍中稱作 triple."/>
+            <int name="a" value="0"/>
+            <string name="d" value="冰上曲棍也稱作hat trick."/>
+        </imgdir>
+        <imgdir name="105">
+            <string name="q" value="世界著名的死海位於埃及."/>
+            <int name="a" value="0"/>
+            <string name="d" value="死海位於約旦和巴勒斯坦交界."/>
+        </imgdir>
+        <imgdir name="106">
+            <string name="q" value="跨欄比賽中無論男女皆為 110m."/>
+            <int name="a" value="0"/>
+            <string name="d" value="女子為 100m 男子為 110m."/>
+        </imgdir>
+        <imgdir name="107">
+            <string name="q" value="在足球中進行自由球時至少要距離對方踢球選手最少 9.15m 以上才行."/>
+            <int name="a" value="1"/>
+            <string name="d" value="進入9.15m內的話會被警告."/>
+        </imgdir>
+        <imgdir name="108">
+            <string name="q" value="游泳被指定為奧運正式項目是在 1896年 第1屆奧運."/>
+            <int name="a" value="0"/>
+            <string name="d" value="從1900年 第2屆奧運起被指定為正式項目."/>
+        </imgdir>
+        <imgdir name="109">
+            <string name="q" value="88首爾奧運中南韓獲得全體第 5名."/>
+            <int name="a" value="0"/>
+            <string name="d" value="88首爾奧運中南韓獲得全體第 4名."/>
+        </imgdir>
+    </imgdir>
+</imgdir>
