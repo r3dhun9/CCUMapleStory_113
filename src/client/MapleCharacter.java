@@ -3172,7 +3172,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
         int partyinc = 0;
         int prevexp = getExp();
         if (pty > 1) {
-            partyinc = (int) (((float) (gain / 20.0)) * (pty + 1));
+            partyinc = (int) (((float) (gain / 5.0)) * (pty + 1)); //modify (gain / 20.0), the party exp
             total += partyinc;
         }
 
