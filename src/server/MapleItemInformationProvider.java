@@ -1027,13 +1027,13 @@ public class MapleItemInformationProvider {
         return (short) ((defaultValue - lMaxRange) + Math.floor(Math.random() * (lMaxRange * 2 + 1)));
     }
 
-    public final Equip randomizeStats(final Equip equip) {
-        equip.setStr(getRandStat(equip.getStr(), 5));
-        equip.setDex(getRandStat(equip.getDex(), 5));
-        equip.setInt(getRandStat(equip.getInt(), 5));
-        equip.setLuk(getRandStat(equip.getLuk(), 5));
-        equip.setMatk(getRandStat(equip.getMatk(), 5));
-        equip.setWatk(getRandStat(equip.getWatk(), 5));
+    public final Equip randomizeStats(final Equip equip) { // modify the number from 5 to 10
+        equip.setStr(getRandStat(equip.getStr(), 10));
+        equip.setDex(getRandStat(equip.getDex(), 10));
+        equip.setInt(getRandStat(equip.getInt(), 10));
+        equip.setLuk(getRandStat(equip.getLuk(), 10));
+        equip.setMatk(getRandStat(equip.getMatk(), 10));
+        equip.setWatk(getRandStat(equip.getWatk(), 10));
         equip.setAcc(getRandStat(equip.getAcc(), 5));
         equip.setAvoid(getRandStat(equip.getAvoid(), 5));
         equip.setJump(getRandStat(equip.getJump(), 5));
