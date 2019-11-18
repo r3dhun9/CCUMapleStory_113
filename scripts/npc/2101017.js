@@ -5,7 +5,7 @@ var status = -1;
 var sel;
 
 function start() {
-	if (cm.getPlayer().getLevel() < 19 || cm.getPlayer().getLevel() > 30 && !cm.getPlayer().isGM()) {
+	if (cm.getPlayer().getLevel() < 20 || cm.getPlayer().getLevel() > 200 && !cm.getPlayer().isGM()) {
 		cm.sendOk("你的等級需求不符合！");
         cm.dispose();
         return;

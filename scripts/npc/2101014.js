@@ -20,7 +20,7 @@ function action(mode, type, selection){
 		cm.sendSimple("#e<沙漠場競賽:挑戰>#n\r\n歡迎來到這裡，勇士你可以與其他玩家一決高下！！#b\r\n#L0#準備進入競技場！\r\n#L1#說明沙漠競技場需求\r\n#L2#什麼是沙漠競技場\r\n#L3#查看今天剩餘的挑戰次數\r\n#L4#領取沙漠競技場的獎勵");
 	} else if (status == 1) {
 		if (selection == 0) {
-			if (closed || (cm.getPlayer().getLevel() < 19 || cm.getPlayer().getLevel() > 30 && !cm.getPlayer().isGM())) {
+			if (closed || (cm.getPlayer().getLevel() < 20 || cm.getPlayer().getLevel() > 200 && !cm.getPlayer().isGM())) {
 				cm.sendOk(closed ? "沙漠競技場暫時沒有開放！" : "你的等級需求不符合！");
 				cm.dispose();
 				return;
@@ -40,7 +40,7 @@ function action(mode, type, selection){
 				}
 			cm.sendSimple(text);
 		} else if (selection == 1) {
-			cm.sendNext("沙漠競技場遊玩規則很簡單的！\r\n - #e等級限制#n : #r(需求 : 21 - 30 )#k\r\n - #e時間限制#n : 8 分鐘\r\n - #e人數限制#n : 2-6\r\n");
+			cm.sendNext("沙漠競技場遊玩規則很簡單的！\r\n - #e等級限制#n : #r(需求 : 21 - 200 )#k\r\n - #e時間限制#n : 8 分鐘\r\n - #e人數限制#n : 2-6\r\n");
 			cm.dispose();
 		} else if (selection == 2) {
 			status = 9;

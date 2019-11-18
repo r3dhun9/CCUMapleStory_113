@@ -1,3 +1,7 @@
+/*
+ 夢幻公園熊王獅王
+*/
+
 var status = -1;
 var yaoshi = 2;
 
@@ -12,15 +16,17 @@ function start() {
 		cm.dispose();
 		return;
 	} else if (!cm.haveItem(4032246)) {
-		cm.sendOk("你沒有意念滾吧!");
+		cm.sendOk("你沒有夢幻公園的意念!");
 		cm.dispose();
 		return;
 	}
+	/*
 	if (!cm.getPlayer().isGM() && cm.getPlayer().getClient().getChannel() != 1 && cm.getPlayer().getClient().getChannel() != 2) {
 		cm.sendOk("熊獅只能在1,2頻挑戰.");
 		cm.dispose();
 		return;
 	}
+	*/
 
 	var em = cm.getEventManager("ScarTarBattle");
 

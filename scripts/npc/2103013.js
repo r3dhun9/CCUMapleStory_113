@@ -1,4 +1,7 @@
-﻿
+﻿/*
+ 法老王金字塔PQ
+*/
+
 var status = 0;
 var section = 0;
 importPackage(java.lang);

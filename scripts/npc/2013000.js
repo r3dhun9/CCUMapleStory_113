@@ -1,6 +1,6 @@
 var status = -1;
 var minLevel = 51; // 35
-var maxLevel = 70; // 65
+var maxLevel = 200; // 65
 
 var minPartySize = 6;
 var maxPartySize = 6;

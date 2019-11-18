@@ -1,3 +1,7 @@
+/*
+ 毒霧森林PQ
+*/
+
 var status = -1;
 
 function action(mode, type, selection) {
@@ -44,7 +48,7 @@ function action(mode, type, selection) {
                 while (it.hasNext()) {
                     var cPlayer = it.next();
                     var ccPlayer = cm.getPlayer().getMap().getCharacterById(cPlayer.getId());
-                    if (ccPlayer == null || ccPlayer.getLevel() < 45 || ccPlayer.getLevel() > 55) {
+                    if (ccPlayer == null || ccPlayer.getLevel() < 45 || ccPlayer.getLevel() > 200) {
                         next = false;
                         break;
                     }
@@ -66,7 +70,7 @@ function action(mode, type, selection) {
 
                     }
                 } else {
-                    cm.sendOk("你的隊伍4個(含)以上45~55的隊員才能進入");
+                    cm.sendOk("你的隊伍4個(含)以上45~200的隊員才能進入");
                 }
             }
         }

@@ -1,3 +1,7 @@
+/*
+ 被遺忘的羅密歐與茱麗葉PQ
+*/
+
 function action(mode, type, selection) {
     var em = cm.getEventManager("Juliet");
     if (em == null) {
@@ -24,7 +28,7 @@ function action(mode, type, selection) {
                 while (it.hasNext()) {
                     var cPlayer = it.next();
                     var ccPlayer = cm.getPlayer().getMap().getCharacterById(cPlayer.getId());
-                    if (ccPlayer == null || ccPlayer.getLevel() < 70 || ccPlayer.getLevel() > 120) {
+                    if (ccPlayer == null || ccPlayer.getLevel() < 70 || ccPlayer.getLevel() > 200) {
                         next = false;
                         break;
                     }
@@ -33,7 +37,7 @@ function action(mode, type, selection) {
                 if (next && (cm.getPlayer().isGM() || size >= 4)) {
                     em.startPartyInstance(cm.getPlayer().getParty(), cm.getPlayer().getMap());
                 } else {
-                    cm.sendOk("請你的隊員大於4個人(含)都要70等以上(含)120等以下(120也可)都要在這張地圖再來找我");
+                    cm.sendOk("請你的隊員大於4個人(含)都要70等以上(含)200等以下都要在這張地圖再來找我");
                 }
             }
             break;

@@ -1,3 +1,8 @@
+/*
+ 每日領取點數NPC
+ author: Redhung
+*/
+
 var status = 0;
 
 function start() {

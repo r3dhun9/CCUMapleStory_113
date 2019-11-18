@@ -1,3 +1,7 @@
+/*
+ BOSSPQ
+*/
+
 var points;
 
 function start() {
