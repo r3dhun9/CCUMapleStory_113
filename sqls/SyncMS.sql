@@ -35,6 +35,7 @@ CREATE TABLE `accounts` (
   `access_token` varchar(255) DEFAULT '',
   `password_otp` varchar(255) DEFAULT '',
   `expiration` timestamp NULL DEFAULT NULL,
+  `gaincash` tinyint(1) DEFAULT '0',
   PRIMARY KEY (`id`),
   UNIQUE KEY `name` (`name`),
   KEY `ranking1` (`id`,`banned`,`gm`)

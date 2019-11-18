@@ -566,6 +566,14 @@ public abstract class AbstractPlayerInteraction {
         }
     }
 
+    public int getGainCash() {
+        return getPlayer().getGainCash();
+    }
+
+    public void setGainCash(int n) {
+        getPlayer().setGainCash(n);
+    }
+
     public final boolean isLeader() {
         if (getParty() == null) {
             return false;

@@ -5268,6 +5268,36 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
         }
     }
 
+    public int getGainCash() {
+        Connection conn = DatabaseConnection.getConnection();
+        try {
+            int isGained;
+            PreparedStatement ps;
+            ps = conn.prepareStatement("SELECT gaincash FROM accounts WHERE id=?");
+            ps.setInt(1, ret.accountid);
+            try (ResultSet rs = ps.executeQuery()) {
+                isGained = rs.next();
+            }
+            ps.close();
+            return isGained;
+        } catch (Exception Ex) {
+            return -1;
+        }
+    }
+
+    public void setGainCash(int n) {
+        Connection conn = DatabaseConnection.getConnection();
+        try {
+            PreparedStatement ps;
+            ps = conn.prepareStatement("UPDATE accounts SET gaincash=? WHERE id=?");
+            ps.setInt(1, n);
+            ps.setInt(2, ret.accountid);
+            ps.executeUpdate();
+            ps.close();
+        } catch (Exception Ex) {
+        }
+    }
+
     public void dropMessage(int type, String message) {
         switch (type) {
             case -1:
