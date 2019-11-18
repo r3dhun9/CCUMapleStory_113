@@ -1,5 +1,6 @@
 /*
-	Encrypted Slate of the Squad - Leafre Cave of life
+    Encrypted Slate of the Squad - Leafre Cave of life
+    闇黑龍王
 */
 
 var status = -1;

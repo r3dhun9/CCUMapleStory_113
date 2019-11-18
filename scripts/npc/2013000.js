@@ -1,3 +1,7 @@
+/*
+ 女神的痕跡PQ
+*/
+
 var status = -1;
 var minLevel = 51; // 35
 var maxLevel = 200; // 65

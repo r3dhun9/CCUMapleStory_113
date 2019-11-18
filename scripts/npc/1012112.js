@@ -1,3 +1,7 @@
+/*
+ 月妙的元宵PQ
+*/
+
 var status = -1;
 var minLevel = 10; // 35
 var maxLevel = 200; // 65

@@ -1,6 +1,7 @@
 ﻿
 /*
-	Red Sign - 101st Floor Eos Tower (221024500)
+    Red Sign - 101st Floor Eos Tower (221024500)
+    時空的裂縫PQ
 */
 
 var status = -1;

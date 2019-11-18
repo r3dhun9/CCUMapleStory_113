@@ -17,7 +17,7 @@ function action(mode, type, selection) {
 
         if (eim.getProperty("crackLeaderPreamble") == null) {
             eim.setProperty("crackLeaderPreamble", "done");
-            cm.sendNext("請幹掉 窗台上的 #b黑色老鼠#k 然後就會召喚 #b劇情戰鬥機#k 幹掉之後撿到鑰匙再來找我。");
+            cm.sendNext("請打敗 窗台上的 #b黑色老鼠#k 然後就會召喚 #b劇情戰鬥機#k 打敗之後撿到鑰匙再來找我。");
             cm.dispose();
         } else {
             if (cm.haveItem(4001023)) {
@@ -29,7 +29,7 @@ function action(mode, type, selection) {
             }
         }
     } else if (status == -1 && !cm.isLeader()) {
-        cm.sendNext("請幹掉 窗台上的 #b黑色老鼠#k 然後就會召喚 #b劇情戰鬥機#k 幹掉之後撿到鑰匙再來來請隊長找我。");
+        cm.sendNext("請打敗 窗台上的 #b黑色老鼠#k 然後就會召喚 #b劇情戰鬥機#k 打敗之後撿到鑰匙再來來請隊長找我。");
         cm.dispose();
     } else if (status == 0 && cm.isLeader()) {
         var eim = cm.getEventInstance();
