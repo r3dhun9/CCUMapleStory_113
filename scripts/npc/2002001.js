@@ -24,6 +24,7 @@ function action(mode, type, selection) {
                 cm.getPlayer().modifyCSPoints(1, 3000, true);
                 cm.setGainCash(1);
                 cm.sendSimple("點數領取完畢，請確認是否成功領取，祝您楓之谷生活愉快！");
+                cm.dispose();
             }
             else {
                 cm.sendSimple("您今日已經領取過了，請明日再來領取。");

@@ -7,6 +7,8 @@
 importPackage(Packages.handling.world);
 importPackage(Packages.tools);
 importPackage(Packages.server);
+importPackage(Packages.scripting);
+
 var status = -1;
 
 var requireItem = 5220000; /* 轉蛋券 */
@@ -32,7 +34,7 @@ function action(mode, _type, selection) {
                         var item = MapleInventoryManipulator.addbyId_Gachapon(cm.getPlayer().getClient(), gashaponItem.getItemId(), 1);
                         if(gashaponItem != null) { 
                             if(gashaponItem.canShowMsg())
-                                World.Broadcast.broadcastMessage(MaplePacketCreator.getGachaponMega("[潮流轉蛋機] " + cm.getPlayer().getName() +  " : 被他從轉蛋屋的卷軸轉蛋機轉到了，大家恭喜他吧！", item, cm.getChannelNumber()).getBytes());
+                                World.Broadcast.broadcastMessage(MaplePacketCreator.getGachaponMega("[潮流轉蛋機] " + cm.getPlayer().getName() +  " : 被他從轉蛋屋的潮流轉蛋機轉到了，大家恭喜他吧！", item, cm.getChannelNumber()).getBytes());
                             cm.gainItem(requireItem, -1);
                             cm.sendOk("恭喜你轉到了#b#i" + gashaponItem.getItemId() + ":##k。");
                         } else {
