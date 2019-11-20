@@ -212,7 +212,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
     private boolean isShowDebugInfo = false;
     private int saveToDBCount = 0;
 
-    private MapleCharacter(final boolean isChannelServer) {
+    public MapleCharacter(final boolean isChannelServer) {
         super.setStance(0);
         super.setPosition(new Point(0, 0));
 
@@ -5293,6 +5293,17 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
             ps = conn.prepareStatement("UPDATE accounts SET gaincash=? WHERE id=?");
             ps.setInt(1, n);
             ps.setInt(2, client.getAccID());
+            ps.executeUpdate();
+            ps.close();
+        } catch (Exception Ex) {
+        }
+    }
+
+    public void setAllGainCashBack() {
+        Connection conn = DatabaseConnection.getConnection();
+        try {
+            PreparedStatement ps;
+            ps = conn.prepareStatement("UPDATE accounts SET gaincash=0");
             ps.executeUpdate();
             ps.close();
         } catch (Exception Ex) {

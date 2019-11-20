@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 import tools.FilePrinter;
 
-public abstract class Timer {
+public class Timer {
 
     public static class WorldTimer extends Timer {
 

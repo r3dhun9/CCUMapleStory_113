@@ -137,6 +137,9 @@ public class Start {
         /*載入拍賣*/
         // MTSStorage.load();
 
+        /*載入每日點數重置定時器*/
+        new GainCashTimer();
+
         /*載入購物商城物品*/
         CashItemFactory.getInstance().initialize();
 
