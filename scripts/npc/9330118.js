@@ -3,10 +3,11 @@
 	Name:  卷軸轉蛋機
 	Place: 轉蛋屋
 */
-
+load('nashorn:mozilla_compat.js');
 importPackage(Packages.handling.world);
 importPackage(Packages.tools);
 importPackage(Packages.server);
+
 var status = -1;
 
 var requireItem = 5220000; /* 轉蛋券 */
