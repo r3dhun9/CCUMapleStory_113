@@ -22,17 +22,17 @@ function action(mode, type, selection) {
         else
             status--;
         if (status == 0) {
-            cm.sendSimple("#b親愛的 #k#h  ##e\r\n#b是否要挑戰武陵妖僧副本??#k \r\n#L0##r我要挑戰武陵妖僧#k#l");
+            cm.sendSimple("#b親愛的 #k#h  ##e\r\n#b是否要挑戰武林妖僧副本??#k \r\n#L0##r我要挑戰武林妖僧#k#l");
         } else if (status == 1) {
             if (selection == 0) {
                 var pt = cm.getPlayer().getParty();
                 if (cm.getQuestStatus(8534) != 0) {
-                    cm.sendOk("你似乎不夠資格挑戰武陵妖僧！");
+                    cm.sendOk("你似乎不夠資格挑戰武林妖僧！");
                     cm.dispose();
                 } /*else if (cm.getBossLog('shaoling') >= 5) {
                     cm.sendOk("每天只能打5次妖僧！");
-                    cm.dispose();*/
-                } else if (cm.getParty() == null) {
+                    cm.dispose();
+                }*/ else if (cm.getParty() == null) {
                     cm.sendOk("請組隊再來找我....");
                     cm.dispose();
                 } else if (!cm.isLeader()) {

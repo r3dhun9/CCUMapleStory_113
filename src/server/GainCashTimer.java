@@ -20,8 +20,8 @@ public class GainCashTimer {
 
     public Date getTime() {
         Calendar calendar = Calendar.getInstance();
-        calendar.set(Calendar.HOUR_OF_DAY, 1);
-        calendar.set(Calendar.MINUTE, 0);
+        calendar.set(Calendar.HOUR_OF_DAY, 17);
+        calendar.set(Calendar.MINUTE, 55);
         calendar.set(Calendar.SECOND, 0);
         Date time = calendar.getTime();
         return time;

@@ -5,17 +5,21 @@
 
 package server;
 
+import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.util.*;
-import client.MapleCharacter;
+import database.DatabaseConnection;
 
 public class GainCashTimerTask extends TimerTask {
     @Override
     public void run() {
+        Connection conn = DatabaseConnection.getConnection();
         try {
-            MapleCharacter chr = new MapleCharacter(false);
-            chr.setAllGainCashBack();
-        }
-        catch (Exception e) {
+            PreparedStatement ps;
+            ps = conn.prepareStatement("UPDATE accounts SET gaincash=0");
+            ps.executeUpdate();
+            ps.close();
+        } catch (Exception Ex) {
             System.out.println("重置每日領取點數錯誤");
         }
     }
