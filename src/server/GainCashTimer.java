@@ -10,6 +10,11 @@ import java.util.*;
 public class GainCashTimer {
 
     java.util.Timer timer;
+    private final static GainCashTimer instance = new GainCashTimer();
+
+    public static GainCashTimer getInstance() {
+        return instance;
+    }
 
     public GainCashTimer() {
         Date time = getTime();
@@ -20,8 +25,8 @@ public class GainCashTimer {
 
     public Date getTime() {
         Calendar calendar = Calendar.getInstance();
-        calendar.set(Calendar.HOUR_OF_DAY, 17);
-        calendar.set(Calendar.MINUTE, 55);
+        calendar.set(Calendar.HOUR_OF_DAY, 0);
+        calendar.set(Calendar.MINUTE, 0);
         calendar.set(Calendar.SECOND, 0);
         Date time = calendar.getTime();
         return time;
