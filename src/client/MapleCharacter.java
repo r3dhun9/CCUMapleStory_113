@@ -3871,7 +3871,6 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
                     }
                 } catch (Exception ex) {
                 }
-                client.banMacs();
                 if (hellban) {
                     try (PreparedStatement psa = con.prepareStatement("SELECT * FROM accounts WHERE id = ?")) {
                         psa.setInt(1, accountid);
@@ -3889,6 +3888,7 @@ public class MapleCharacter extends AbstractAnimatedMapleMapObject implements Se
                     }
                 }
             }
+        client.banMacs();
         } catch (SQLException ex) {
             System.err.println("Error while banning" + ex);
             return false;

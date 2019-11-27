@@ -109,7 +109,7 @@ public class CheatTracker {
         if ((tickCount - lastAttackTickCount) < AtkDelay) {
             if (打怪 >= 100) {
                 if (!chr.get().hasGmLevel(1)) {
-                    chr.get().ban("攻擊速度異常，技能: " + skillId + " check: " + (tickCount - lastAttackTickCount) + " " + "AtkDelay: " + AtkDelay, true, true, false);
+                    chr.get().ban("攻擊速度異常，技能: " + skillId + " check: " + (tickCount - lastAttackTickCount) + " " + "AtkDelay: " + AtkDelay, false, true, false);
                     chr.get().sendHackShieldDetected();
                     chr.get().getClient().disconnect(true, false);
                     String reason = "使用違法程式練功";
@@ -347,7 +347,7 @@ public class CheatTracker {
                 if (chr.get().hasGmLevel(1)) {
                     chr.get().dropMessage("觸發違規: " + real + " param: " + (param == null ? "" : (" - " + param)));
                 } else if (ban) {
-                    chrhardref.ban(chrhardref.getName() + real, true, true, false);
+                    chrhardref.ban(chrhardref.getName() + real, false, true, false);
                     chrhardref.sendHackShieldDetected();
                     chrhardref.getClient().disconnect(true, false);
                     World.Broadcast.broadcastMessage(MaplePacketCreator.getItemNotice("[封鎖系統] " + chrhardref.getName() + " 因為" + show + "而被管理員永久停權。").getBytes());
