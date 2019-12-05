@@ -2261,7 +2261,6 @@ INSERT INTO `cashshop_modified_items` VALUES ('50300093', '幸運御守', '8', '
 INSERT INTO `cashshop_modified_items` VALUES ('50300096', '經驗值加倍全日券', '200', '0', '1', '0', '0', '0', '7', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300101', '掉寶加倍全日券', '30', '0', '1', '0', '0', '0', '1', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300105', '掉寶加倍全日券', '150', '0', '1', '0', '0', '0', '7', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50300106', '楓葉轉蛋券', '89', '0', '1', '0', '0', '0', '0', '2', '5', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300107', '原地復活術', '50', '0', '1', '0', '0', '0', '0', '2', '10', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300108', '強效護身符', '110', '0', '1', '0', '0', '0', '90', '2', '10', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300110', '高級魚餌罐頭', '15', '0', '1', '0', '0', '0', '0', '2', '3', '0', '0', '0', '0', '0');
@@ -2277,9 +2276,6 @@ INSERT INTO `cashshop_modified_items` VALUES ('50300135', '魔力沙漏', '35', 
 INSERT INTO `cashshop_modified_items` VALUES ('50300136', '魔力沙漏', '90', '0', '1', '0', '0', '0', '0', '2', '30', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300140', '金鑰匙', '59', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300141', '銀鑰匙', '10', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50300142', '隨時隨地轉蛋券', '25', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50300143', '隨時隨地轉蛋券', '190', '0', '1', '0', '0', '0', '0', '2', '8', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50300144', '隨時隨地轉蛋券', '700', '0', '1', '0', '0', '0', '0', '2', '35', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300145', '銀鑰匙', '79', '0', '1', '0', '0', '0', '0', '2', '10', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300146', '黃金種子', '39', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300147', '黃金種子', '199', '0', '1', '0', '0', '0', '0', '2', '6', '0', '0', '0', '0', '0');
@@ -2294,15 +2290,10 @@ INSERT INTO `cashshop_modified_items` VALUES ('50300160', '魔法沙漏*7天', '
 INSERT INTO `cashshop_modified_items` VALUES ('50300161', '魔法沙漏*20天', '65', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50300163', '喵喵貓小釣手', '40', '0', '1', '0', '0', '0', '10', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50400000', '轉蛋券', '15', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50400001', '超級轉蛋券', '40', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50400002', '轉蛋券', '50', '0', '1', '0', '0', '0', '0', '2', '4', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50400003', '轉蛋券', '600', '0', '1', '0', '0', '0', '0', '2', '50', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50400004', '超級轉蛋券', '150', '0', '1', '0', '0', '0', '0', '2', '4', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50400006', '楓葉轉蛋券', '20', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50400007', '楓葉轉蛋券', '150', '0', '1', '0', '0', '0', '0', '2', '8', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50400009', '小鋼珠盒子(500)', '20', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50400010', '小鋼珠盒子(3000)', '100', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
-INSERT INTO `cashshop_modified_items` VALUES ('50400020', '楓葉轉蛋券', '600', '0', '1', '0', '0', '0', '0', '2', '40', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50500012', '水球', '120', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50500013', '紙飛機', '120', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
 INSERT INTO `cashshop_modified_items` VALUES ('50500014', '元氣玉', '120', '0', '1', '0', '0', '0', '0', '2', '0', '0', '0', '0', '0', '0');
