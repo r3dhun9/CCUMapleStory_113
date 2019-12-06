@@ -26,7 +26,7 @@ function action(mode, type, selection) {
         } else if (status == 1) {
             if (selection == 0) {
                 var pt = cm.getPlayer().getParty();
-                if (cm.getQuestStatus(8534) != 0) {
+                if (cm.getQuestStatus(8534) == 0) {
                     cm.sendOk("你似乎不夠資格挑戰武林妖僧！");
                     cm.dispose();
                 } /*else if (cm.getBossLog('shaoling') >= 5) {

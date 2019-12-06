@@ -39,7 +39,7 @@ function action(mode, type, selected) {
                     cm.dispose();
                     return;
                 } else {
-                    cm.sendOk("裡面已經有人在挑戰鬼娃恰吉了...");
+                    cm.sendOk("裡面已經有人在挑戰黑輪王了...");
                     cm.dispose();
                 }
             }
