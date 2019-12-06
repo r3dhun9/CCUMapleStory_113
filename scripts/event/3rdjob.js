@@ -1,4 +1,4 @@
-﻿
+﻿load('nashorn:mozilla_compat.js');
 importPackage(Packages.tools.MaplePacketCreator);
 
 function init() {}

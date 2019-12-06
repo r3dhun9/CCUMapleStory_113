@@ -6,6 +6,7 @@
 Note by Tykian: Minor fixes/additions
 **/
 
+load('nashorn:mozilla_compat.js');
 importPackage(java.lang);
 
 var status = -1;

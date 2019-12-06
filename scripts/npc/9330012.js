@@ -7,6 +7,7 @@
  64等 850萬 10000
  **/
 
+load('nashorn:mozilla_compat.js');
 importPackage(java.lang);
 
 var status = -1;

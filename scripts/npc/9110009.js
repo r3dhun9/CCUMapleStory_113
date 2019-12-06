@@ -4,6 +4,7 @@
 	Place: 弓箭手村
 */
 
+load('nashorn:mozilla_compat.js');
 importPackage(Packages.handling.world);
 importPackage(Packages.tools);
 importPackage(Packages.server);

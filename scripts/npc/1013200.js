@@ -8,6 +8,7 @@ Version 1.0 - Script Done.(4/6/2010)
 =============================================================
 */
 
+load('nashorn:mozilla_compat.js');
 importPackage(Packages.client);
 
 var status = 0;

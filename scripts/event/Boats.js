@@ -2,6 +2,7 @@
 	魔法森林搭船系統改寫 by:Kodan
 **/
 
+load('nashorn:mozilla_compat.js');
 importPackage(Packages.client);
 importPackage(Packages.tools);
 importPackage(Packages.server.life);

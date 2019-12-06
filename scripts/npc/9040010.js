@@ -6,6 +6,7 @@
  * Guild Quest - end of boss
  */
 
+load('nashorn:mozilla_compat.js');
 importPackage(java.lang);
 
 function start() {

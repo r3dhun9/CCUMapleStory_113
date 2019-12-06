@@ -1,5 +1,5 @@
-﻿importPackage(Packages.tools);
-
+﻿load('nashorn:mozilla_compat.js');
+importPackage(Packages.tools);
 
 var exitMap = 0;
 var waitingMap = 1;

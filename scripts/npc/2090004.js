@@ -4,6 +4,7 @@
 	Map(s): 		Mu Lung: Mu Lung(2500000000)
 	Description: 		Potion Creator
 */
+load('nashorn:mozilla_compat.js');
 importPackage(Packages.client);
 
 var status = 0;

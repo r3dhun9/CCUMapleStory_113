@@ -1,4 +1,5 @@
-﻿importPackage(Packages.tools);
+﻿load('nashorn:mozilla_compat.js');
+importPackage(Packages.tools);
 importPackage(Packages.handling.world);
 importPackage(Packages.server);
 

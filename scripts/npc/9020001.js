@@ -1,6 +1,7 @@
 /**
 	Cloto - Hidden Street : 1st Accompaniment
 **/
+load('nashorn:mozilla_compat.js');
 importPackage(java.awt);
 
 var status;

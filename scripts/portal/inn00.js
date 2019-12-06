@@ -1,3 +1,4 @@
+load('nashorn:mozilla_compat.js');
 importPackage(org.server.maps);
 
 function enter(pi) {

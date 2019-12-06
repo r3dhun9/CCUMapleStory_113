@@ -3,6 +3,7 @@
  * Map   : GMMAP
  */
 
+load('nashorn:mozilla_compat.js');
 importPackage(java.lang);
 
 var status = 0;
