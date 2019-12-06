@@ -2,6 +2,13 @@
 	Dark Lord's Practice Field, 4th job Quest
 **/
 
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 function init() {}
 
 function monsterValue(eim, mobId) {

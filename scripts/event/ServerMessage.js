@@ -1,4 +1,11 @@
-﻿var setupTask;
+﻿load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
+var setupTask;
 
 function init() {
     scheduleNew();
@@ -14,6 +21,7 @@ function cancelSchedule() {
 
 function start() {
 	var Message = new Array(
+    "中正谷的組隊經驗大於單人經驗，玩家們組隊練等會更快速！",
     "如果遇到不能點技能/能力值/不能進傳點/不能點NPC,請在對話框打@ea就可以了",
     "/找人 玩家名字 可以用來找人喔",
     "禁止開外掛，遊戲愉快！！",

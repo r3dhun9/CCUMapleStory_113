@@ -1,4 +1,11 @@
-﻿var eventmapid = 220080001;
+﻿load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
+var eventmapid = 220080001;
 var returnmap = 910000000;
 var monster = Array(8820001, 9400300);
 

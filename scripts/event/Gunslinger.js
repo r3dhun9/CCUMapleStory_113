@@ -2,6 +2,13 @@
 	Map(s): 		Hidden Street : Pirate Test Room (108000500)
 	Description: 		
 */
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 function init() {}
 
 function playerEntry(eim, player) {

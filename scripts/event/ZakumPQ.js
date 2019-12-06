@@ -1,4 +1,11 @@
 //ZPQ maps, center area then 1-1 through 16-6 increasing gradually
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 var mapList = new Array(280010000, 280010010, 280010011, 280010020, 280010030, 280010031, 280010040, 280010041, 280010050, 280010060,
     280010070, 280010071, 280010080, 280010081, 280010090, 280010091, 280010100, 280010101, 280010110, 280010120, 280010130, 280010140,
     280010150, 280011000, 280011001, 280011002, 280011003, 280011004, 280011005, 280011006);

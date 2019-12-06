@@ -1,5 +1,9 @@
 load('nashorn:mozilla_compat.js');
 importPackage(Packages.tools);
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(java.lang);
 
 var closeTime = 240000; //The time to close the gate
 var beginTime = 300000; //The time to begin the ride

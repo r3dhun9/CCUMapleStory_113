@@ -1,6 +1,10 @@
 load('nashorn:mozilla_compat.js');
 importPackage(java.lang);
-importPackage(Packages.tools.MaplePacketCreator)
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+
 
 var monster;
 var mapid = 551030200;

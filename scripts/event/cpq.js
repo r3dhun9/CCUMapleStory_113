@@ -1,5 +1,10 @@
 ﻿load('nashorn:mozilla_compat.js');
 importPackage(Packages.tools);
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(java.lang);
+
 
 var exitMap = 0;
 var waitingMap = 1;

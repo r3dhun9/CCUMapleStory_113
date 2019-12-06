@@ -1,6 +1,9 @@
 load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
 importPackage(Packages.tools);
-importPackage(Packages.tools.packet);
+importPackage(java.lang);
 
 //pvp mode: 12 = "1.5 event", 13 = "2x event"
 

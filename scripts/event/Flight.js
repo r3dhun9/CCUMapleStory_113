@@ -1,5 +1,10 @@
 load('nashorn:mozilla_compat.js');
 importPackage(Packages.tools);
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(java.lang);
+
 
 var Orbis_btf;
 var Boat_to_Orbis;

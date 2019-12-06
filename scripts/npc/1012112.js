@@ -1,6 +1,12 @@
 /*
  月妙的元宵PQ
 */
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
 
 var status = -1;
 var minLevel = 10; // 35

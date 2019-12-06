@@ -1,3 +1,10 @@
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 var returnTo = new Array(200000141, 250000100);
 var rideTo = new Array(250000100, 200000141);
 var birdRide = new Array(200090300, 200090310);

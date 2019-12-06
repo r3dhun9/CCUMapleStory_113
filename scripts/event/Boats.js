@@ -6,6 +6,10 @@ load('nashorn:mozilla_compat.js');
 importPackage(Packages.client);
 importPackage(Packages.tools);
 importPackage(Packages.server.life);
+importPackage(Packages.world);
+importPackage(Packages.server.maps);
+importPackage(java.lang);
+
 
 //變數跟時間設定區
 var closeTime = 120000; //船關閉搭乘的時間

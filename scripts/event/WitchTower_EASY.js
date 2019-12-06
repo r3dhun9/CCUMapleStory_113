@@ -1,6 +1,12 @@
 /**
 	Witch tower - Easy Mode
 **/
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
 
 function init() {
     em.setProperty("goldkey", "0");

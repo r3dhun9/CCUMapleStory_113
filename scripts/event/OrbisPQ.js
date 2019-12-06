@@ -1,3 +1,10 @@
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 var minPlayers = 6;
 var stg2_combo0 = Array("5", "4", "3", "3", "2");
 var stg2_combo1 = Array("0", "0", "1", "0", "1"); //unique combos only

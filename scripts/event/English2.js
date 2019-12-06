@@ -1,3 +1,10 @@
+load('nashorn:mozilla_compat.js');
+importPackage(Packages.world);
+importPackage(Packages.client);
+importPackage(Packages.server.maps);
+importPackage(Packages.tools);
+importPackage(java.lang);
+
 var letters = Array("What is Lirin's favourite animal?", "What is the main colour of the Yeti Pyramid Area?", "Please bring me the letters [REINDEER]", "Which Valentine Rose is level 48?", "How much EXP does it take for level 1-2?", "Who exchanges Vote Points in FM?", "Who is the owner of this server (HINT: A _ _ _ _ _ _) ?", "What level does a Beginner become a Magician?", "What town does an Evan start in?", "What town is the home to the Black Wings?", "What are the Wild Hunters, Battle Mages, and Mechanics?", "What type of dragon is Mir?", "Who is Mir's ancestor?", "What weapon does the Aran use?", "Who is the job instructor for Mechanic?", "What is the item needed for 3rd job advancement?", "What NPC gives you a Pokemon starter?", "What are the animals that the Wild Hunter rides?", "Complete this job class: Knights of ?", "The ranks of the potentials are: Rare, Epic, ?", "What is the name of the top statue of Pink Bean?", "What town is closest to Horntail?", "What level can you go to Zakum?");
 var answers = Array("WOLF", "YELLOW", "REINDEER", "BLUE", "FIFTEEN", "PHOENIX", "AWESOME", "EIGHT", "HENESYS", "EDELSTEIN", "RESISTANCE", "ONYX", "AFRIEN", "POLEARM", "CHECKY", "DARKCRYSTAL", "GAGA", "JAGUAR", "CYGNUS", "UNIQUE", "ARIEL", "LEAFRE", "FIFTY");
 
