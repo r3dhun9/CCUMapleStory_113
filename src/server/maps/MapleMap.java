@@ -618,7 +618,13 @@ public final class MapleMap {
         }
         spawnedMonstersOnMap.decrementAndGet();
         removeMapObject(monster);
-        int dropOwner = monster.killBy(chr, lastSkill);
+        int dropOwner = 0;
+        try {
+        
+        dropOwner = monster.killBy(chr, lastSkill);
+        } catch(Exception e) {
+        System.err.println(e);
+        }
         broadcastMessage(MobPacket.killMonster(monster.getObjectId(), animation));
 
         if (monster.getBuffToGive() > -1) {

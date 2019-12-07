@@ -36,12 +36,11 @@ public class MapleDataTool {
             return def;
         } else {
             try {
-              String  d = (String)data.getData();
-            }  catch(Exception e) {
-                              System.out.println(data.getParent().getName());
-
+              String  d = String.valueOf(data.getData());
+            } catch (Exception e) {
+                System.out.println(data.getParent().getName()); 
             }
-            return ((String) data.getData());
+            return String.valueOf(data.getData());
         }
     }
 
