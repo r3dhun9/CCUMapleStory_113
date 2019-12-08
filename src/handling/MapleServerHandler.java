@@ -343,7 +343,6 @@ public class MapleServerHandler extends IoHandlerAdapter implements MapleServerH
                     try {
                         handlePacket(recv, slea, c, isCashShop); 
                     } catch (Exception e) {
-                        System.err.println(recv + " " + slea.toString());
                         long pos = slea.getPosition();
                         slea.seek(0);
                         String allp = slea.toString();

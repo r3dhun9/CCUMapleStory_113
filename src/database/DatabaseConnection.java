@@ -50,7 +50,7 @@ public class DatabaseConnection {
     private final static Logger log = LoggerFactory.getLogger(DatabaseConnection.class);
     private static HikariDataSource datasource;
     private static final int maxConnection = 500;
-    private static final long connectionTimeOut = 30 * 60 * 1000;
+    private static final long connectionTimeOut = 30 * 60 * 100000;
     private static final ReentrantLock lock = new ReentrantLock();// 锁对象
 
     public static int getConnectionsCount() {

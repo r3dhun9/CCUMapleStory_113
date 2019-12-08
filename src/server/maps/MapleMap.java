@@ -620,10 +620,9 @@ public final class MapleMap {
         removeMapObject(monster);
         int dropOwner = 0;
         try {
-        
         dropOwner = monster.killBy(chr, lastSkill);
         } catch(Exception e) {
-        System.err.println(e);
+            System.err.println(e);
         }
         broadcastMessage(MobPacket.killMonster(monster.getObjectId(), animation));
 

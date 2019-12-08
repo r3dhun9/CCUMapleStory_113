@@ -187,7 +187,6 @@ public class MapleMapFactory {
                 map.setSoaring(MapleDataTool.getInt(mapData.getChildByPath("info/needSkillForFly"), 0) > 0);
                 map.setPersonalShop(MapleDataTool.getInt(mapData.getChildByPath("info/personalShop"), 0) > 0);
                 map.setForceMove(MapleDataTool.getInt(mapData.getChildByPath("info/lvForceMove"), 0));
-//                System.err.println(MapleDataTool.getString(mapData.getChildByPath("info/decHP"), "0"));
                 map.setHPDec(((Long)Long.parseLong(MapleDataTool.getString(mapData.getChildByPath("info/decHP"), "0"))).intValue());
                 map.setHPDecInterval(MapleDataTool.getInt(mapData.getChildByPath("info/decHPInterval"), 10000));
                 map.setHPDecProtect(MapleDataTool.getInt(mapData.getChildByPath("info/protectItem"), 0));

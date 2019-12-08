@@ -520,7 +520,6 @@ public class MapleMonster extends AbstractLoadedMapleLife {
         /* 計算獲得的經驗值*/
         for (final AttackerEntry attackEntry : attackers) {
             baseExp = (int) Math.ceil(totalBaseExp * ((double) attackEntry.getDamage() / getMobMaxHp()));
-            System.err.println("exp:" + baseExp);
             attackEntry.killedMob(getMap(), baseExp, attackEntry == highest, lastSkill);
         }
 
