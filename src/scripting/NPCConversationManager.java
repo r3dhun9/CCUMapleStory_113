@@ -1393,7 +1393,7 @@ public class NPCConversationManager extends AbstractPlayerInteraction {
                     setQuestRecord(getPlayer(), 160001, "2");
                     setQuestRecord(chr, 160001, "2");
                     sendNPCText(getPlayer().getName() + " 和 " + chr.getName() + "， 我希望你們兩個能在此時此刻永遠愛著對方！", 9201002);
-                    getMap().startExtendedMapEffect("那麼現在請新郎" + getPlayer().getName() + "親吻新娘 " + chr.getName() + "！", 5120006);
+                    getMap().startExtendedMapEffect("那麼現在請新郎" + chr.getName() + "親吻新娘 " + getPlayer().getName() + "！", 5120006);
                     if (chr.getGuildId() > 0) {
                         World.Guild.guildPacket(chr.getGuildId(), MaplePacketCreator.sendMarriage(false, chr.getName()));
                     }
