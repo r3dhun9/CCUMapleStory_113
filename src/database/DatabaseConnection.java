@@ -209,7 +209,6 @@ public class DatabaseConnection {
             config.setIdleTimeout(60000);
             config.setConnectionTimeout(30000);
             config.setValidationTimeout(3000);
-            config.setLeakDetectionThreshold(5000);
             config.addDataSourceProperty("cachePrepStmts", "true");
             config.addDataSourceProperty("prepStmtCacheSize", "250");
             config.addDataSourceProperty("prepStmtCacheSqlLimit", "2048");
