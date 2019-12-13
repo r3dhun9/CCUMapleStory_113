@@ -50,7 +50,7 @@ public class DatabaseConnection {
     private final static Logger log = LoggerFactory.getLogger(DatabaseConnection.class);
     private static HikariDataSource datasource;
     private static final int maxConnection = 500;
-    private static final long connectionTimeOut = 600000;
+    private static final long connectionTimeOut = 30 * 60 * 1000;
     private static final ReentrantLock lock = new ReentrantLock();// 锁对象
 
     public static int getConnectionsCount() {
@@ -206,9 +206,6 @@ public class DatabaseConnection {
             config.setPoolName("springHikariCP");
             config.setMaximumPoolSize(maxConnection);
             config.setMaxLifetime(connectionTimeOut);
-            config.setIdleTimeout(60000);
-            config.setConnectionTimeout(30000);
-            config.setValidationTimeout(3000);
             config.addDataSourceProperty("cachePrepStmts", "true");
             config.addDataSourceProperty("prepStmtCacheSize", "250");
             config.addDataSourceProperty("prepStmtCacheSqlLimit", "2048");

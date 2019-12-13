@@ -373,7 +373,9 @@ public class EventInstanceManager {
         }
         byte ret;
         try {
-            ret = ((Double) em.getIv().invokeFunction("playerDisconnected", this, chr)).byteValue();
+            double tmp = Double.valueOf(em.getIv().invokeFunction("playerDisconnected", this, chr).toString());
+            ret = (byte) tmp;
+            //ret = ((Double) em.getIv().invokeFunction("playerDisconnected", this, chr)).byteValue();
         } catch (ScriptException | NoSuchMethodException e) {
             ret = 0;
         }
@@ -417,7 +419,9 @@ public class EventInstanceManager {
         }
         try {
             Integer kc = killCount.get(chr.getId());
-            int inc = ((Double) em.getIv().invokeFunction("monsterValue", this, mob.getId())).intValue();
+            double tmp = Double.valueOf(em.getIv().invokeFunction("monsterValue", this, mob.getId()).toString());
+            int inc = (int) tmp;
+            //int inc = ((Double) em.getIv().invokeFunction("monsterValue", this, mob.getId())).intValue();
             if (disposed) {
                 return;
             }
