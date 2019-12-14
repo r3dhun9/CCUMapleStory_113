@@ -1000,10 +1000,10 @@ public class InventoryHandler {
 
                 if (apto == apfrom) {
                     break; // Hack
-                } else if (apfrom == MapleStat.MAXMP && apto != MapleStat.MAXHP) {
+                } /*else if (apfrom == MapleStat.MAXMP && apto != MapleStat.MAXHP) {
                     c.getPlayer().dropMessage(1, "MP無法增加到HP以外的屬性唷");
                     break;
-                }
+                }*/
                 final int job = c.getPlayer().getJob();
                 final PlayerStats playerst = c.getPlayer().getStat();
                 used = true;
